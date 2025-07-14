@@ -1,0 +1,36 @@
+    .site-banner {
+      background: #f8f9fa;
+      padding: 2rem 1rem;
+      border-bottom: 2px solid #dee2e6;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .site-title {
+      font-size: 2rem;
+      font-weight: bold;
+    }
+    .site-subtitle {
+      font-size: 1.4rem;
+    }
+    .logo-univ {
+      height: 90px;
+      margin-left: 2rem;
+    }
+    .navbar-nav .nav-link {
+      font-size: 1.3rem;
+       margin-left: 1rem;
+    }
+
+    .h2{
+        font-size: 2rem;
+    }
+
+    .footer {
+        flex-shrink: 0;
+        padding: 5px 0px; 
+        background-color: #E8e0e0;
+        padding: 1rem 0;
+        width: 100%;
+    }
+

@@ -12,7 +12,7 @@ title: "Equipe"
     <div class="card-body">
       <h5 class="card-title">Pr Iana ATANASSOVA</h5>
       <p class="card-text"> E-mail : <a href="mailto:iana.atanassova@univ-fcomte.fr">iana.atanassova@univ-fcomte.fr</a> </p>
-      <p class="card-text"> Page personnelle : <a href="https://iana-atanassova.github.io/">https://iana-atanassova.github.io/</a> </p>
+      <p class="card-text"> Page personnelle : <a href="https://iana-atanassova.github.io/" target="_blank">https://iana-atanassova.github.io/</a> </p>
       <p class="card-text"> <a href="edt-Iana.html">Emploi de temps</a> </p>
       <p class="card-text text-muted">Titulaire, responsable du Département TAL et du Master LLCER parcours TAL</p>
     </div>
@@ -30,11 +30,11 @@ title: "Equipe"
   </div>
 
   <div class="card">
-    <!-- <img class="rounded float-left w-25 m-3" src="..."> -->
+    <img class="float-left w-25 m-3 rounded-circle" src="assets/images/pierre.png">
     <div class="card-body">
       <h5 class="card-title">Dr Pierre MERCURIALI</h5>
-      <p class="card-text"> E-mail : <a href="mailto:mercuriali.pierre@gmail.com">mercuriali.pierre@gmail.com</a> </p>
-      <!-- <p class="card-text"> Page personnelle :  </p> -->
+      <p class="card-text"> E-mail : <a href="mailto:mercuriali.pierre@gmail.com">mercuriali.pierre@gmail.com</a> ; <a href="mailto:pierre.mercuriali@univ-fcomte.fr">pierre.mercuriali@univ-fcomte.fr</a> </p>
+      <p class="card-text"> Page personnelle :  <a href="https://pierremercuriali.github.io/" target="_blank">https://pierremercuriali.github.io/</a> </p>
       <p class="card-text"> <a href="edt-Pierre.html">Emploi de temps</a> </p>
       <p class="card-text text-muted">Maître de conférences contractuel 2025-2026</p>
     </div>
@@ -45,7 +45,7 @@ title: "Equipe"
     <div class="card-body">
       <h5 class="card-title">Dr Aurélie NOMBLOT</h5>
       <p class="card-text"> E-mail : <a href="mailto:aurelie.nomblot@univ-fcomte.fr">aurelie.nomblot@univ-fcomte.fr</a> </p>
-      <!-- <p class="card-text"> Page personnelle :  </p> -->
+      <p class="card-text"> Page personnelle : <a href="aurelie.nomblot.org" target="_blank">aurelie.nomblot.org</a> </p>
       <p class="card-text"> <a href="edt-Aurelie.html">Emploi de temps</a> </p>
       <p class="card-text text-muted">Post-doctorante</p>
     </div>

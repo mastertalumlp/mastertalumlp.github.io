@@ -25,7 +25,7 @@ title: "Equipe"
       <p class="card-text"> E-mail : <a href="mailto:Mounir.zrigui@fsm.rnu.tn">Mounir.zrigui@fsm.rnu.tn</a> </p>
       <!-- <p class="card-text"> Page personnelle :  </p> -->
       <p class="card-text"> <a href="edt-Mounir.html">Emploi de temps</a> </p>
-      <p class="card-text text-muted">ATER 2025-2026, Professeur en informatique</p>
+      <p class="card-text text-muted">Professeur en informatique, intervenant 2025-2026</p>
     </div>
   </div>
 

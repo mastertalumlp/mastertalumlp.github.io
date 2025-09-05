@@ -40,7 +40,9 @@ Ce code essaye de :
 - produire les nouvelles pages web EDT
 - sychroniser le dépôt git. Vérifier que cette dernière étape a bien marché.
 
-4. Les éventuels conflits de créneaux s'affichent en rouge à droite sur les pages web EDT. Vérifiez.
+4. La mise à jour du site en ligne du côté de github prend environ 10-20 secondes.
+
+5. Les éventuels conflits de créneaux s'affichent en rouge à droite sur les pages web EDT. Vérifiez.
 
 
 

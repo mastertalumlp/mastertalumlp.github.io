@@ -5,7 +5,7 @@ title: 'Emploi de temps - Iana'
 
 # Emploi de temps : Iana
 
-<p class="text-secondary">Dernière mise à jour : 28/08/2025</p>
+<p class="text-secondary">Dernière mise à jour : 05/09/2025</p>
 #### Semaine 37 : Iana (08/09/2025-12/09/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi</th> <th style="width:19%">mardi</th> <th style="width:19%">mercredi</th> <th style="width:19%">jeudi</th> <th style="width:19%">vendredi</th></tr>

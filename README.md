@@ -4,20 +4,24 @@
 
 ###  Ajouter des actualités
 
-1. Créer un fichier AAAA-MM-JJ-blabla.md dans le repertoire _actualites.
+1. Créer un fichier AAAA-MM-JJ-blabla.md dans le repertoire _actualites (le nom du fichier commence par la date).
 2. Ajouter l'entête, modifier la date de publication :
 
+```
 ---
 title: "Titre ici"
 date: 2025-08-28
 header: "Rubrique / titre court"
 ---
+```
 
 3. Ajouter le texte dessous, en format md (pour référence https://www.markdownguide.org/cheat-sheet/)
 
 Pour ajouter une image, utiliser par exemple :
 
+```
 <img src="actualites/reunion-rentree.jpg" class="img w-50" alt="reunion">
+```
 
 où le fichier image est placé dans le même repertoire _actualites.
 

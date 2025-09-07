@@ -539,7 +539,7 @@ filters = [
            {"salle": "Salle Master TAL", "titre": "Salle Master TAL"}
            ]
 
-outputDir = "/home/iana/CLOUDS/travail/10-Espace-de-travail-perso/mastertalumlp.github.io/"
+outputDir = "../"
 
 # Lecture du Google Sheet : 
 df = lire_google_sheet("edt-master-tal-27f3c1946ece.json", "Donnees-Master-TAL", "EDT-2025-2026")

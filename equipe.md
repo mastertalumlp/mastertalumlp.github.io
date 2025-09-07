@@ -19,7 +19,7 @@ title: "Equipe"
   </div>
 
   <div class="card">
-    <!-- <img class="rounded float-left w-25 m-3" src="..."> -->
+    <img class="float-left w-25 m-3 rounded-circle" src="assets/images/mounir.jpg">
     <div class="card-body">
       <h5 class="card-title">Pr Mounir ZRIGUI</h5>
       <p class="card-text"> E-mail : <a href="mailto:Mounir.zrigui@fsm.rnu.tn">Mounir.zrigui@fsm.rnu.tn</a> </p>

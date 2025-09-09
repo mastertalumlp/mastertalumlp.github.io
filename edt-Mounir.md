@@ -5,7 +5,7 @@ title: 'Emploi de temps - Mounir'
 
 # Emploi de temps : Mounir
 
-<p class="text-secondary">Dernière mise à jour : 07/09/2025</p>
+<p class="text-secondary">Dernière mise à jour : 09/09/2025</p>
 #### Semaines 39-41 : Mounir (22/09/2025-10/10/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi</th> <th style="width:19%">mardi</th> <th style="width:19%">mercredi</th> <th style="width:19%">jeudi</th> <th style="width:19%">vendredi</th></tr>

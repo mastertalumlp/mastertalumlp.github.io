@@ -5,7 +5,7 @@ title: 'Emploi de temps - Ning'
 
 # Emploi de temps : Ning
 
-<p class="text-secondary">Dernière mise à jour : 09/09/2025</p>
+<p class="text-secondary">Dernière mise à jour : 11/09/2025</p>
 #### Semaine 37 : Ning (08/09/2025-12/09/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 08/09</th><th style="width:19%">mardi 09/09</th><th style="width:19%">mercredi 10/09</th><th style="width:19%">jeudi 11/09</th><th style="width:19%">vendredi 12/09</th></tr>

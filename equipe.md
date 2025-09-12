@@ -41,11 +41,11 @@ title: "Equipe"
   </div>
 
    <div class="card">
-    <!-- <img class="rounded float-left w-25 m-3" src="..."> -->
+    <img class="float-left w-25 m-3 rounded-circle" src="assets/images/aurelie.JPG">
     <div class="card-body">
       <h5 class="card-title">Dr Aurélie NOMBLOT</h5>
       <p class="card-text"> E-mail : <a href="mailto:aurelie.nomblot@univ-fcomte.fr">aurelie.nomblot@univ-fcomte.fr</a> </p>
-      <p class="card-text"> Page personnelle : <a href="aurelie.nomblot.org" target="_blank">aurelie.nomblot.org</a> </p>
+      <p class="card-text"> Page personnelle : <a href="https://nomblot.notion.site/" target="_blank">https://nomblot.notion.site/</a> </p>
       <p class="card-text"> <a href="edt-Aurelie.html">Emploi de temps</a> </p>
       <p class="card-text text-muted">Post-doctorante</p>
     </div>

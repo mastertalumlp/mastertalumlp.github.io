@@ -52,7 +52,7 @@ title: "Equipe"
   </div>
 
    <div class="card">
-    <img class="float-left w-25 m-3 rounded-circle" src="https://github.com/ningrumdaud/ningrumdaud.github.io/blob/master/assets/images/ning.jpeg">
+    <img class="float-left w-25 m-3 rounded-circle" src="assets/images/ning.jpeg">
     <div class="card-body">
       <h5 class="card-title">Dr Panggih Kusuma NINGRUM</h5>
       <p class="card-text"> E-mail : <a href="mailto:panggih_kusuma.ningrum@univ-fcomte.fr">panggih_kusuma.ningrum@univ-fcomte.fr</a> </p>

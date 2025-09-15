@@ -5,15 +5,7 @@ title: 'Emploi de temps - Aurelie'
 
 # Emploi de temps : Aurelie
 
-<p class="text-secondary">Dernière mise à jour : 11/09/2025</p>
-#### Semaine 37 : Aurelie (08/09/2025-12/09/2025)
-
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 08/09</th><th style="width:19%">mardi 09/09</th><th style="width:19%">mercredi 10/09</th><th style="width:19%">jeudi 11/09</th><th style="width:19%">vendredi 12/09</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEE54T</span></small></p><h6 class="clearfix"><small>Théories linguistiques et TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle de cours</span></small></p></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEE54T</span></small></p><h6 class="clearfix"><small>Théories linguistiques et TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle de cours</span></small></p></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td></tr>
-</table>
-
-
+<p class="text-secondary">Dernière mise à jour : 15/09/2025</p>
 #### Semaine 38 : Aurelie (15/09/2025-19/09/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 15/09</th><th style="width:19%">mardi 16/09</th><th style="width:19%">mercredi 17/09</th><th style="width:19%">jeudi 18/09</th><th style="width:19%">vendredi 19/09</th></tr>
@@ -134,10 +126,18 @@ title: 'Emploi de temps - Aurelie'
 </table>
 
 
-#### Semaine 9 : Aurelie (23/02/2026-27/02/2026)
+#### Semaine 3 : Aurelie (12/01/2026-16/01/2026)
 
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 23/02</th><th style="width:19%">mardi 24/02</th><th style="width:19%">mercredi 25/02</th><th style="width:19%">jeudi 26/02</th><th style="width:19%">vendredi 27/02</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td></td><td></td><td></td><td></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET841</span></small></p><h6 class="clearfix"><small>Outils pour la rédaction du mémoire</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle informatique</span></small></p></td></tr>
+<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 12/01</th><th style="width:19%">mardi 13/01</th><th style="width:19%">mercredi 14/01</th><th style="width:19%">jeudi 15/01</th><th style="width:19%">vendredi 16/01</th></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET841</span></small></p><h6 class="clearfix"><small>Outils pour la rédaction du mémoire</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle informatique</span></small></p></td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+
+#### Semaine 5 : Aurelie (26/01/2026-30/01/2026)
+
+<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 26/01</th><th style="width:19%">mardi 27/01</th><th style="width:19%">mercredi 28/01</th><th style="width:19%">jeudi 29/01</th><th style="width:19%">vendredi 30/01</th></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET841</span></small></p><h6 class="clearfix"><small>Outils pour la rédaction du mémoire</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle informatique</span></small></p></td><td></td><td></td><td></td><td></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -147,8 +147,6 @@ title: 'Emploi de temps - Aurelie'
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 09/03</th><th style="width:19%">mardi 10/03</th><th style="width:19%">mercredi 11/03</th><th style="width:19%">jeudi 12/03</th><th style="width:19%">vendredi 13/03</th></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td rowspan="2" class="table-info" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEX852</span></small></p><h6 class="clearfix"><small>Edition numérique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle de cours</span></small></p></td><td></td><td></td><td></td><td></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td></td><td></td><td></td><td></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET841</span></small></p><h6 class="clearfix"><small>Outils pour la rédaction du mémoire</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle informatique</span></small></p></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 

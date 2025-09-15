@@ -5,17 +5,7 @@ title: 'Emploi de temps - Iana'
 
 # Emploi de temps : Iana
 
-<p class="text-secondary">Dernière mise à jour : 11/09/2025</p>
-#### Semaine 37 : Iana (08/09/2025-12/09/2025)
-
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 08/09</th><th style="width:19%">mardi 09/09</th><th style="width:19%">mercredi 10/09</th><th style="width:19%">jeudi 11/09</th><th style="width:19%">vendredi 12/09</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>10h</small></td><td></td><td></td><td></td><td></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>10h-12h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET731</span></small></p><h6 class="clearfix"><small>Méthodes et outils en TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">B17</span></small></p></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>11h</small></td><td></td><td></td><td></td><td></td></tr>
-</table>
-
-
-<div class="col-3 float-right"><div class="card text-danger border-danger"> <div class="card-header fw-bold text-white bg-danger">Conflits de créneaux</div><div class="card-body"><p class="fw-bold">Semaine Semaine 41 vendredi 15h :</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p><p class="fw-bold">Semaine Semaine 42 vendredi 15h :</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p><p class="fw-bold">Semaine Semaine 43 vendredi 15h :</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p><p class="fw-bold">Semaine Semaine 45 vendredi 15h :</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p></div></div></div>
-
+<p class="text-secondary">Dernière mise à jour : 15/09/2025</p>
 #### Semaine 38 : Iana (15/09/2025-19/09/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 15/09</th><th style="width:19%">mardi 16/09</th><th style="width:19%">mercredi 17/09</th><th style="width:19%">jeudi 18/09</th><th style="width:19%">vendredi 19/09</th></tr>
@@ -23,6 +13,8 @@ title: 'Emploi de temps - Iana'
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
+
+<div class="col-3 float-right"><div class="card text-danger border-danger"> <div class="card-header fw-bold text-white bg-danger">Conflits de créneaux</div><div class="card-body"><p class="fw-bold">Semaine Semaine 41 vendredi 15h :</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p><p class="fw-bold">Semaine Semaine 42 vendredi 15h :</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p><p class="fw-bold">Semaine Semaine 43 vendredi 15h :</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p><p class="fw-bold">Semaine Semaine 45 vendredi 15h :</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p><p>[41, 42, 43, 45] (4), vendredi, 15h-17h, TD " (Y4GET732) Ateliers d'écriture scientifique - Iana ATANASSOVA", B05</p></div></div></div>
 
 #### Semaine 39 : Iana (22/09/2025-26/09/2025)
 

@@ -11,7 +11,7 @@ title: "Equipe"
     <img class="float-left w-25 m-3 rounded-circle" src="assets/images/iana.jpg">
     <div class="card-body">
       <h5 class="card-title">Pr Iana ATANASSOVA</h5>
-      <p class="card-text"> E-mail : <a href="mailto:iana.atanassova@univ-fcomte.fr">iana.atanassova@univ-fcomte.fr</a> </p>
+      <p class="card-text"> E-mail : <a href="mailto:iana.atanassova@umlp.fr">iana.atanassova@umlp.fr</a> </p>
       <p class="card-text"> Page personnelle : <a href="https://iana-atanassova.github.io/" target="_blank">https://iana-atanassova.github.io/</a> </p>
       <p class="card-text"> <a href="edt-Iana.html">Emploi de temps</a> </p>
       <p class="card-text text-muted">Professeure en Traitement Automatique des Langues<br>Responsable du Département TAL et du Master LLCER parcours TAL</p>

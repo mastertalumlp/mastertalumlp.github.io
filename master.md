@@ -447,7 +447,7 @@ Un niveau linguistique est requis : <strong>C1 en français</strong> (langue pri
   
 
 <p class="mt-4">
-Pour tout renseignement complémentaire, contactez la responsable de la formation : Pr Iana ATANASSOVA (<a href="mailto:iana.atanassova@univ-fcomte.fr">iana.atanassova@univ-fcomte.fr</a>).
+Pour tout renseignement complémentaire, contactez la responsable de la formation : Pr Iana ATANASSOVA (<a href="mailto:iana.atanassova@umlp.fr">iana.atanassova@umlp.fr</a>).
 </p>
 
 <p>Pour plus de détails sur l'inscription et la liste des documents
@@ -625,7 +625,7 @@ Les étudiants bénéficient d’un accompagnement étroit et individuel tout au
 
 <h2 id="contact">Contactez-nous</h2>
 
-<p>Pour tout renseignement complémentaire sur les inscriptions contactez la responsable de la formation : Pr Iana Atanassova, <a href="mailto:iana.atanassova@univ-fcomte.fr">iana.atanassova@univ-fcomte.fr</a>.</p>
+<p>Pour tout renseignement complémentaire sur les inscriptions contactez la responsable de la formation : Pr Iana Atanassova, <a href="mailto:iana.atanassova@umlp.fr">iana.atanassova@umlp.fr</a>.</p>
 
 <p>Site web du CRIT : <a href="http://crit.univ-fcomte.fr/" target="_blank">http://crit.univ-fcomte.fr</a></p>
 

@@ -5,7 +5,7 @@ title: 'Emploi de temps - Aurelie'
 
 # Emploi de temps : Aurelie
 
-<p class="text-secondary">Dernière mise à jour : 15/09/2025</p>
+<p class="text-secondary">Dernière mise à jour : 16/09/2025</p>
 #### Semaine 38 : Aurelie (15/09/2025-19/09/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 15/09</th><th style="width:19%">mardi 16/09</th><th style="width:19%">mercredi 17/09</th><th style="width:19%">jeudi 18/09</th><th style="width:19%">vendredi 19/09</th></tr>

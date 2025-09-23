@@ -5,7 +5,7 @@ title: "Emplois de temps"
 
 
 <div class="row p-5">
-	<div class="col-12">
+	<div class="col-10">
 
 
 <h1>Emplois de temps : Master Traitement Automatique des Langues</h1>
@@ -26,9 +26,11 @@ title: "Emplois de temps"
 
 <h1>Permanences du département TAL</h1>
 
+<p>
 La salle Master TAL et les locaux du département TAL (entrée E, au-dessus du Grand Salon) sont disponibles pour les étudiants pendant toute la semaine. La salle Master TAL est accessible en dehors des cours pour le travail des étudiants.
+</p>
 
-<img src="/assets/fichiers/permanences.png" alt="Permanences 2025-2026" class="w-75">
+<img src="/assets/fichiers/permanences.png" alt="Permanences 2025-2026" class="w-50">
 
 
 </div>

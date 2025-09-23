@@ -24,6 +24,13 @@ title: "Emplois de temps"
 <p>Les emplois du temps disponibles sur la plateforme ADE de l'université sont susceptibles de ne pas toujours refléter les dernières mises à jour, car leur actualisation peut être différée. En cas de question ou de doute, nous vous invitons à contacter directement les enseignants pour obtenir des informations précises.</p>
 
 
+<h1>Permanences du département TAL</h1>
+
+La salle Master TAL et les locaux du département TAL (entrée E, au-dessus du Grand Salon) sont disponibles pour les étudiants pendant toute la semaine. La salle Master TAL est accessible en dehors des cours pour le travail des étudiants.
+
+<img src="/assets/fichiers/permanences.png" alt="Permanences 2025-2026" class="w-75">
+
+
 </div>
 
 </div>

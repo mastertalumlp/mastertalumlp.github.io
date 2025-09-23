@@ -16,7 +16,7 @@ Ce cours introduit des notions en linguistique et en Traitement Automatique des 
 
 Responsable de l'UEL : Iana Atanassova (<a href="mailto:iana.atanassova@umlp.fr">iana.atanassova@umlp.fr</a>)
 
-<a href="/assets/fichiers/UEL_TAL_Sem5" target="_blank">Télécharger la description détaillée (PDF)</a>
+<a href="/assets/fichiers/UEL_TAL_Sem5.pdf" target="_blank">Télécharger la description détaillée (PDF)</a>
 
 
 
@@ -28,7 +28,7 @@ Ce cours aborde le traitement informatique de données textuelles à travers la 
 
 Responsable de l'UEL : Iana Atanassova (<a href="mailto:iana.atanassova@umlp.fr">iana.atanassova@umlp.fr</a>)
 
-<a href="/assets/fichiers/UEL_TAL_Sem6" target="_blank">Télécharger la description détaillée (PDF)</a>
+<a href="/assets/fichiers/UEL_TAL_Sem6.pdf" target="_blank">Télécharger la description détaillée (PDF)</a>
 
 
 

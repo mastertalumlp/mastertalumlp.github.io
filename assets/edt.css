@@ -21,19 +21,19 @@
       margin-right: 2rem;
     }
 
-    .navbar{
+    .fnavbar{
       background: #e72f2a;
       color: #fff;
     }
 
-    .navbar-dark .navbar-nav .nav-link {
+    .fnavbar-dark .navbar-nav .nav-link {
       font-size: 1.2rem;
        margin-left: 1rem;
        color: #eee;
        font-weight: bold;
     }
 
-    .navbar-brand {
+    .fnavbar-brand {
       font-size: 1.6rem;
       margin-left: 1rem;
        color: #fff;
@@ -53,7 +53,7 @@
         font-size: 2rem;
     }
 
-    .footer {
+    .ffooter {
         flex-shrink: 0;
         padding: 5px 0px; 
         background-color: #eee;
@@ -61,17 +61,17 @@
         width: 100%;
     }
 
-    a {
+    fa {
       color: #4466ee;
     }
-    a.titre {
+    fa.titre {
       color: #e72f2a;
     }
 
     .citation{
       font-style: italic;
     }
-    .signature{
+    .fsignature{
       text-align: right;
     }
 

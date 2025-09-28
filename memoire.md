@@ -12,6 +12,33 @@ title: "Mémoire de recherche et TAL"
 <a class="btn btn-outline-success mt-5 mx-5 w-25 font-weight-bold" href="/assets/fichiers/Feuille-de-style-memoire-TAL.odt" target="_blank">Télécharger en format ODT</a>
 
 - <a href="/assets/fichiers/Normes-memoire-2023.pdf" target="_blank">Normes d’écriture scientifique pour le mémoire de Master TAL (PDF, 2023)</a>
+<div class="card-group">
+
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Feuille de style pour le mémoire M1 TAL</h5>
+    <p class="card-text">Format DOCX</p>
+    <a class="btn btn-primary" href="/assets/fichiers/Feuille-de-style-memoire-TAL.docx" target="_blank">Télécharger</a>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Feuille de style pour le mémoire M1 TAL</h5>
+    <p class="card-text">Format ODT</p>
+    <a class="btn btn-success" href="/assets/fichiers/Feuille-de-style-memoire-TAL.odt" target="_blank">Télécharger</a>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Normes d’écriture scientifique pour le mémoire de Master TAL</h5>
+    <p class="card-text">PDF, 2023</p>
+    <a class="btn btn-warning" href="/assets/fichiers/Normes-memoire-2023.pdf" target="_blank">Télécharger</a>
+  </div>
+</div>
+
+</div>
 
 
 ## Quelques sujets de mémoire récemment traités par nos étudiants

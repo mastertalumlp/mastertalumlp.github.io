@@ -21,17 +21,17 @@
       margin-right: 2rem;
     }
 
-    li.nav-item {
+    a.nav-link {
       font-size: 1.2rem;
        margin-left: 1rem;
-       color: #444;
+       color: #446;
        font-weight: bold;
     }
 
     .navbar-brand {
       font-size: 1.6rem;
       margin-left: 1rem;
-       color: #222;
+       color: #223;
        font-weight: bold;
     }
 

@@ -5,6 +5,12 @@ title: "Mémoire de recherche et TAL"
 
 # Le mémoire de recherche en TAL
 
+## Ressources autour de la rédaction du mémoire
+
+- Feuille de style pour le mémoire M1 TAL : <a href="/assets/fichiers/Feuille-de-style-memoire-TAL.docx" target="_blank">[Télécharger en format DOCX]</a>  <a href="/assets/fichiers/Feuille-de-style-memoire-TAL.odt" target="_blank">[Télécharger en format ODT]</a>
+- <a href="/assets/fichiers/Normes-memoire-2023.pdf" target="_blank">Normes d’écriture scientifique pour le mémoire de Master TAL (PDF, 2023)</a>
+
+
 ## Quelques sujets de mémoire récemment traités par nos étudiants
 
 <ul class="list-group w-100">

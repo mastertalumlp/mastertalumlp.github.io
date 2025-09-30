@@ -34,14 +34,6 @@ title: 'Emploi de temps - Mounir'
 </table>
 
 
-#### Semaine 43 : Mounir (20/10/2025-24/10/2025)
-
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 20/10</th><th style="width:19%">mardi 21/10</th><th style="width:19%">mercredi 22/10</th><th style="width:19%">jeudi 23/10</th><th style="width:19%">vendredi 24/10</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td></td><td></td><td rowspan="2" class="table-primary" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET9U1</span></small></p><h6 class="clearfix"><small>Modélisation et représentation des connaissances</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Mounir Zrigui<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
-</table>
-
-
 #### Semaine 45 : Mounir (03/11/2025-07/11/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 03/11</th><th style="width:19%">mardi 04/11</th><th style="width:19%">mercredi 05/11</th><th style="width:19%">jeudi 06/11</th><th style="width:19%">vendredi 07/11</th></tr>
@@ -85,6 +77,8 @@ title: 'Emploi de temps - Mounir'
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 01/12</th><th style="width:19%">mardi 02/12</th><th style="width:19%">mercredi 03/12</th><th style="width:19%">jeudi 04/12</th><th style="width:19%">vendredi 05/12</th></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>10h</small></td><td></td><td></td><td></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>10h-12h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET931</span></small></p><h6 class="clearfix"><small>Méthodes en apprentissage automatique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Mounir Zrigui<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>11h</small></td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>12h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td></td><td></td><td rowspan="2" class="table-primary" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET9U1</span></small></p><h6 class="clearfix"><small>Modélisation et représentation des connaissances</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Mounir Zrigui<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 

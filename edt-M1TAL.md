@@ -5,7 +5,7 @@ title: 'Emploi de temps - M1 TAL'
 
 # Emploi de temps : M1 TAL
 
-<p class="text-secondary">Dernière mise à jour : 06/10/2025</p>
+<p class="text-secondary">Dernière mise à jour : 07/10/2025</p>
 #### Semaine 41 : M1 TAL (06/10/2025-10/10/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 06/10</th><th style="width:19%">mardi 07/10</th><th style="width:19%">mercredi 08/10</th><th style="width:19%">jeudi 09/10</th><th style="width:19%">vendredi 10/10</th></tr>
@@ -50,7 +50,7 @@ title: 'Emploi de temps - M1 TAL'
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET731</span></small></p><h6 class="clearfix"><small>Méthodes et outils en TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET741</span></small></p><h6 class="clearfix"><small>Linguistique de corpus</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Marion BENDINELLI<span class="badge badge-info float-right float-bottom m-1">P4</span></small></p></td><td></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET731</span></small></p><h6 class="clearfix"><small>Méthodes et outils en TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Panggih Kusuma NINGRUM<span class="badge badge-info float-right float-bottom m-1">H12</span></small></p></td><td></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>17h</small></td><td></td><td class="table-info" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>17h-18h</strong> <span class="badge badge-pill badge-secondary float-right">Entreprenariat étudiant</span></small></p><h6 class="clearfix"><small>L'entreprenariat étudiant</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Cyril BAUDURET<span class="badge badge-info float-right float-bottom m-1">Salle à préciser</span></small></p></td><td></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>17h</small></td><td></td><td class="table-info" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>17h-18h</strong> <span class="badge badge-pill badge-secondary float-right">PEPITE</span></small></p><h6 class="clearfix"><small>L'entreprenariat étudiant</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Cyril BAUDURET<span class="badge badge-info float-right float-bottom m-1">D03</span></small></p></td><td></td><td></td><td></td></tr>
 </table>
 
 

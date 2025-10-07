@@ -5,7 +5,7 @@ title: 'Emploi de temps - Aurelie'
 
 # Emploi de temps : Aurelie
 
-<p class="text-secondary">Dernière mise à jour : 06/10/2025</p>
+<p class="text-secondary">Dernière mise à jour : 07/10/2025</p>
 #### Semaine 41 : Aurelie (06/10/2025-10/10/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 06/10</th><th style="width:19%">mardi 07/10</th><th style="width:19%">mercredi 08/10</th><th style="width:19%">jeudi 09/10</th><th style="width:19%">vendredi 10/10</th></tr>

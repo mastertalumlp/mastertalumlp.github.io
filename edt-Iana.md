@@ -5,7 +5,7 @@ title: 'Emploi de temps - Iana'
 
 # Emploi de temps : Iana
 
-<p class="text-secondary">Dernière mise à jour : 06/10/2025</p>
+<p class="text-secondary">Dernière mise à jour : 07/10/2025</p>
 #### Semaine 42 : Iana (13/10/2025-17/10/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 13/10</th><th style="width:19%">mardi 14/10</th><th style="width:19%">mercredi 15/10</th><th style="width:19%">jeudi 16/10</th><th style="width:19%">vendredi 17/10</th></tr>

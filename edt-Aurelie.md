@@ -5,17 +5,7 @@ title: 'Emploi de temps - Aurelie'
 
 # Emploi de temps : Aurelie
 
-<p class="text-secondary">Dernière mise à jour : 07/10/2025</p>
-#### Semaine 41 : Aurelie (06/10/2025-10/10/2025)
-
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 06/10</th><th style="width:19%">mardi 07/10</th><th style="width:19%">mercredi 08/10</th><th style="width:19%">jeudi 09/10</th><th style="width:19%">vendredi 10/10</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>10h</small></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>10h-12h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET942</span></small></p><h6 class="clearfix"><small>Langues de spécialité</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>11h</small></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>12h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEE54T</span></small></p><h6 class="clearfix"><small>Théories linguistiques et TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle de cours</span></small></p></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEE54T</span></small></p><h6 class="clearfix"><small>Théories linguistiques et TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle de cours</span></small></p></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td></tr>
-</table>
-
-
+<p class="text-secondary">Dernière mise à jour : 14/10/2025</p>
 #### Semaine 42 : Aurelie (13/10/2025-17/10/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 13/10</th><th style="width:19%">mardi 14/10</th><th style="width:19%">mercredi 15/10</th><th style="width:19%">jeudi 16/10</th><th style="width:19%">vendredi 17/10</th></tr>

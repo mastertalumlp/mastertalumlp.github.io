@@ -5,15 +5,7 @@ title: 'Emploi de temps - Mounir'
 
 # Emploi de temps : Mounir
 
-<p class="text-secondary">Dernière mise à jour : 07/10/2025</p>
-#### Semaine 41 : Mounir (06/10/2025-10/10/2025)
-
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 06/10</th><th style="width:19%">mardi 07/10</th><th style="width:19%">mercredi 08/10</th><th style="width:19%">jeudi 09/10</th><th style="width:19%">vendredi 10/10</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td></td><td></td><td rowspan="2" class="table-primary" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET9U1</span></small></p><h6 class="clearfix"><small>Modélisation et représentation des connaissances</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Mounir Zrigui<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
-</table>
-
-
+<p class="text-secondary">Dernière mise à jour : 14/10/2025</p>
 #### Semaine 42 : Mounir (13/10/2025-17/10/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 13/10</th><th style="width:19%">mardi 14/10</th><th style="width:19%">mercredi 15/10</th><th style="width:19%">jeudi 16/10</th><th style="width:19%">vendredi 17/10</th></tr>

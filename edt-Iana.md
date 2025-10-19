@@ -5,14 +5,14 @@ title: 'Emploi de temps - Iana'
 
 # Emploi de temps : Iana
 
-<p class="text-secondary">Dernière mise à jour : 16/10/2025</p>
+<p class="text-secondary">Dernière mise à jour : 19/10/2025</p>
 #### Semaine 42 : Iana (13/10/2025-17/10/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 13/10</th><th style="width:19%">mardi 14/10</th><th style="width:19%">mercredi 15/10</th><th style="width:19%">jeudi 16/10</th><th style="width:19%">vendredi 17/10</th></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td></td><td></td><td></td><td></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET732</span></small></p><h6 class="clearfix"><small>Ateliers d'écriture scientifique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">P4</span></small></p></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET731</span></small></p><h6 class="clearfix"><small>Méthodes et outils en TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td><td></td><td></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET931</span></small></p><h6 class="clearfix"><small>Méthodes en apprentissage automatique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET731</span></small></p><h6 class="clearfix"><small>Méthodes et outils en TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 
@@ -55,8 +55,8 @@ title: 'Emploi de temps - Iana'
 #### Semaine 47 : Iana (17/11/2025-21/11/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 17/11</th><th style="width:19%">mardi 18/11</th><th style="width:19%">mercredi 19/11</th><th style="width:19%">jeudi 20/11</th><th style="width:19%">vendredi 21/11</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td rowspan="2" class="table-info" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEX952</span></small></p><h6 class="clearfix"><small>Projet numérique lié au mémoire</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">D02</span></small></p></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td rowspan="2" class="table-info" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEX952</span></small></p><h6 class="clearfix"><small>Projet numérique lié au mémoire</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">D02</span></small></p></td><td></td><td></td><td></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET931</span></small></p><h6 class="clearfix"><small>Méthodes en apprentissage automatique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td></tr>
 </table>
 
 

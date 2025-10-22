@@ -5,7 +5,7 @@ title: 'Emploi de temps - Aurelie'
 
 # Emploi de temps : Aurelie
 
-<p class="text-secondary">Dernière mise à jour : 19/10/2025</p>
+<p class="text-secondary">Dernière mise à jour : 22/10/2025</p>
 #### Semaine 43 : Aurelie (20/10/2025-24/10/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 20/10</th><th style="width:19%">mardi 21/10</th><th style="width:19%">mercredi 22/10</th><th style="width:19%">jeudi 23/10</th><th style="width:19%">vendredi 24/10</th></tr>
@@ -72,46 +72,6 @@ title: 'Emploi de temps - Aurelie'
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>10h</small></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>10h-12h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET942</span></small></p><h6 class="clearfix"><small>Langues de spécialité</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td><td></td><td></td><td></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>11h</small></td><td></td><td></td><td></td><td></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>12h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEE54T</span></small></p><h6 class="clearfix"><small>Théories linguistiques et TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle de cours</span></small></p></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td></tr>
-</table>
-
-
-#### Semaine 3 : Aurelie (12/01/2026-16/01/2026)
-
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 12/01</th><th style="width:19%">mardi 13/01</th><th style="width:19%">mercredi 14/01</th><th style="width:19%">jeudi 15/01</th><th style="width:19%">vendredi 16/01</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET841</span></small></p><h6 class="clearfix"><small>Outils pour la rédaction du mémoire</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle informatique</span></small></p></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
-</table>
-
-
-#### Semaine 5 : Aurelie (26/01/2026-30/01/2026)
-
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 26/01</th><th style="width:19%">mardi 27/01</th><th style="width:19%">mercredi 28/01</th><th style="width:19%">jeudi 29/01</th><th style="width:19%">vendredi 30/01</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET841</span></small></p><h6 class="clearfix"><small>Outils pour la rédaction du mémoire</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle informatique</span></small></p></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
-</table>
-
-
-#### Semaine 11 : Aurelie (09/03/2026-13/03/2026)
-
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 09/03</th><th style="width:19%">mardi 10/03</th><th style="width:19%">mercredi 11/03</th><th style="width:19%">jeudi 12/03</th><th style="width:19%">vendredi 13/03</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td rowspan="2" class="table-info" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEX852</span></small></p><h6 class="clearfix"><small>Edition numérique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle de cours</span></small></p></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td></tr>
-</table>
-
-
-#### Semaine 12 : Aurelie (16/03/2026-20/03/2026)
-
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 16/03</th><th style="width:19%">mardi 17/03</th><th style="width:19%">mercredi 18/03</th><th style="width:19%">jeudi 19/03</th><th style="width:19%">vendredi 20/03</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td rowspan="2" class="table-info" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEX852</span></small></p><h6 class="clearfix"><small>Edition numérique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle de cours</span></small></p></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td></tr>
-</table>
-
-
-#### Semaine 13 : Aurelie (23/03/2026-27/03/2026)
-
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 23/03</th><th style="width:19%">mardi 24/03</th><th style="width:19%">mercredi 25/03</th><th style="width:19%">jeudi 26/03</th><th style="width:19%">vendredi 27/03</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td rowspan="2" class="table-info" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEX852</span></small></p><h6 class="clearfix"><small>Edition numérique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Aurélie NOMBLOT<span class="badge badge-info float-right float-bottom m-1">Salle de cours</span></small></p></td><td></td><td></td><td></td><td></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td></tr>
 </table>
 

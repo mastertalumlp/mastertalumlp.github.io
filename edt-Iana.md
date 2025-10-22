@@ -5,7 +5,7 @@ title: 'Emploi de temps - Iana'
 
 # Emploi de temps : Iana
 
-<p class="text-secondary">Dernière mise à jour : 19/10/2025</p>
+<p class="text-secondary">Dernière mise à jour : 22/10/2025</p>
 #### Semaine 43 : Iana (20/10/2025-24/10/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 20/10</th><th style="width:19%">mardi 21/10</th><th style="width:19%">mercredi 22/10</th><th style="width:19%">jeudi 23/10</th><th style="width:19%">vendredi 24/10</th></tr>

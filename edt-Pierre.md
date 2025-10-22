@@ -5,7 +5,7 @@ title: 'Emploi de temps - Pierre'
 
 # Emploi de temps : Pierre
 
-<p class="text-secondary">Dernière mise à jour : 19/10/2025</p>
+<p class="text-secondary">Dernière mise à jour : 22/10/2025</p>
 #### Semaine 43 : Pierre (20/10/2025-24/10/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 20/10</th><th style="width:19%">mardi 21/10</th><th style="width:19%">mercredi 22/10</th><th style="width:19%">jeudi 23/10</th><th style="width:19%">vendredi 24/10</th></tr>
@@ -20,6 +20,8 @@ title: 'Emploi de temps - Pierre'
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
+
+<div class="col-2 float-right"><div class="card text-danger border-danger"> <div class="card-header fw-bold text-white bg-danger">Conflits de créneaux</div><div class="card-body"><p>Semaine 3 lundi 15h :</p><p>[3], lundi, 15h-17h, CM " (Y4GET841) Outils pou... - Pierre MERCURIALI", Salle informatique</p><p>[2, 3, 4, 5, 6, 7, 9, 10], lundi, 15h-17h, TD " (Y4GEE64T) Initiation... - Pierre MERCURIALI", Salle informatique</p><p>Semaine 5 lundi 15h :</p><p>[5], lundi, 15h-17h, TD " (Y4GET841) Outils pou... - Pierre MERCURIALI", Salle informatique</p><p>[2, 3, 4, 5, 6, 7, 9, 10], lundi, 15h-17h, TD " (Y4GEE64T) Initiation... - Pierre MERCURIALI", Salle informatique</p></div></div></div>
 
 #### Semaine 45 : Pierre (03/11/2025-07/11/2025)
 
@@ -198,8 +200,8 @@ title: 'Emploi de temps - Pierre'
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>9h</small></td><td></td><td></td><td></td><td></td><td rowspan="3" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>9h-12h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET8U3</span></small></p><h6 class="clearfix"><small>Séminaire TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Pierre MERCURIALI<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>10h</small></td><td></td><td></td><td></td><td></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>11h</small></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>12h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td></td><td></td><td rowspan="3" class="table-info" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-16h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET853</span></small></p><h6 class="clearfix"><small>Soutenance de mémoire</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Pierre MERCURIALI<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>12h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td rowspan="2" class="table-info" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEX852</span></small></p><h6 class="clearfix"><small>Edition numérique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Pierre MERCURIALI<span class="badge badge-info float-right float-bottom m-1">Salle de cours</span></small></p></td><td></td><td rowspan="3" class="table-info" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-16h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET853</span></small></p><h6 class="clearfix"><small>Soutenance de mémoire</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Pierre MERCURIALI<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -210,6 +212,8 @@ title: 'Emploi de temps - Pierre'
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>9h</small></td><td></td><td></td><td></td><td></td><td rowspan="3" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>9h-12h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET8U3</span></small></p><h6 class="clearfix"><small>Séminaire TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Pierre MERCURIALI<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>10h</small></td><td></td><td></td><td></td><td></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>11h</small></td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>12h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td rowspan="2" class="table-info" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEX852</span></small></p><h6 class="clearfix"><small>Edition numérique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Pierre MERCURIALI<span class="badge badge-info float-right float-bottom m-1">Salle de cours</span></small></p></td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 
@@ -219,6 +223,8 @@ title: 'Emploi de temps - Pierre'
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>9h</small></td><td></td><td></td><td></td><td></td><td rowspan="3" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>9h-12h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET8U3</span></small></p><h6 class="clearfix"><small>Séminaire TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Pierre MERCURIALI<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>10h</small></td><td></td><td></td><td></td><td></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>11h</small></td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>12h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td rowspan="2" class="table-info" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEX852</span></small></p><h6 class="clearfix"><small>Edition numérique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Pierre MERCURIALI<span class="badge badge-info float-right float-bottom m-1">Salle de cours</span></small></p></td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 

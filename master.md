@@ -18,7 +18,7 @@ de l’Université Marie et Louis Pasteur, forme des <strong>spécialistes des t
 Le Master TAL offre une formation interdisciplinaire combinant linguistique, informatique et réflexion critique.
 </p>
 
-
+<p>Téléchargez ici la <a href="/assets/fichiers/Fiche-formation-2025.pdf" target="_blank">Fiche de la formation Master TAL (mise à jour 2025)</a>.</p>
 
 <h2 id="finalite">Finalité et objectifs</h2>
 
@@ -627,7 +627,7 @@ Les étudiants bénéficient d’un accompagnement étroit et individuel tout au
 
 <p>Pour tout renseignement complémentaire sur les inscriptions contactez la responsable de la formation : Pr Iana Atanassova, <a href="mailto:iana.atanassova@umlp.fr">iana.atanassova@umlp.fr</a>.</p>
 
-<p>Site web du CRIT : <a href="http://crit.univ-fcomte.fr/" target="_blank">http://crit.univ-fcomte.fr</a></p>
+<p>Site web du CRIT : <a href="http://crit.umlp.fr/" target="_blank">http://crit.umlp.fr</a></p>
 
 
 
@@ -646,6 +646,7 @@ Les étudiants bénéficient d’un accompagnement étroit et individuel tout au
 <a href="#entreprises" class="list-group-item">Les entreprises parlent de nos étudiants en stage</a>
 <a href="#faq" class="list-group-item">FAQ</a>
 <a href="#contact" class="list-group-item">Contactez-nous</a>
+<a href="/edt.html" class="list-group-item">Emplois de temps</a>
 
 </div>
 

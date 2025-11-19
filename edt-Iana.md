@@ -5,31 +5,7 @@ title: 'Emploi de temps - Iana'
 
 # Emploi de temps : Iana
 
-<p class="text-secondary">Dernière mise à jour : 03/11/2025</p>
-#### Semaine 45 : Iana (03/11/2025-07/11/2025)
-
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 03/11</th><th style="width:19%">mardi 04/11</th><th style="width:19%">mercredi 05/11</th><th style="width:19%">jeudi 06/11</th><th style="width:19%">vendredi 07/11</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td></td><td></td><td></td><td></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET732</span></small></p><h6 class="clearfix"><small>Ateliers d'écriture scientifique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">D13</span></small></p></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td></td><td></td><td></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET731</span></small></p><h6 class="clearfix"><small>Méthodes et outils en TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">H12</span></small></p></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
-</table>
-
-
-<div class="col-2 float-right"><div class="card text-danger border-danger"> <div class="card-header fw-bold text-white bg-danger">Conflits de créneaux</div><div class="card-body"><p>Semaine 45 vendredi 13h :</p><p>[45], vendredi, 13h-15h, TD " (Y4GET732) Ateliers d... - Iana ATANASSOVA", D13</p><p>[45], vendredi, 13h-15h, TD " (Y4GET732) Ateliers d... - Iana ATANASSOVA", D13</p></div></div></div>
-
-#### Semaine 46 : Iana (10/11/2025-14/11/2025)
-
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 10/11</th><th style="width:19%">mardi 11/11</th><th style="width:19%">mercredi 12/11</th><th style="width:19%">jeudi 13/11</th><th style="width:19%">vendredi 14/11</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>10h</small></td><td></td><td></td><td></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>10h-12h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET943</span></small></p><h6 class="clearfix"><small>Recherche de stage</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">Grand salon</span></small></p></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>11h</small></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>12h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td></td><td></td><td></td><td></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET931</span></small></p><h6 class="clearfix"><small>Méthodes en apprentissage automatique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td></td><td></td><td></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET731</span></small></p><h6 class="clearfix"><small>Méthodes et outils en TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">H12</span></small></p></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
-</table>
-
-
+<p class="text-secondary">Dernière mise à jour : 19/11/2025</p>
 #### Semaine 47 : Iana (17/11/2025-21/11/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 17/11</th><th style="width:19%">mardi 18/11</th><th style="width:19%">mercredi 19/11</th><th style="width:19%">jeudi 20/11</th><th style="width:19%">vendredi 21/11</th></tr>
@@ -41,9 +17,8 @@ title: 'Emploi de temps - Iana'
 #### Semaine 48 : Iana (24/11/2025-28/11/2025)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 24/11</th><th style="width:19%">mardi 25/11</th><th style="width:19%">mercredi 26/11</th><th style="width:19%">jeudi 27/11</th><th style="width:19%">vendredi 28/11</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>13h-15h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET731</span></small></p><h6 class="clearfix"><small>Méthodes et outils en TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET731</span></small></p><h6 class="clearfix"><small>Méthodes et outils en TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td rowspan="3" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>14h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET731</span></small></p><h6 class="clearfix"><small>Méthodes et outils en TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Iana ATANASSOVA<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td></td><td></td><td></td><td></td></tr>
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
 </table>
 

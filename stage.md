@@ -39,5 +39,3 @@ La **soutenance de stage** consiste en une brève présentation, d'environ 5-10 
 
 </div>
 
-
-</ul>

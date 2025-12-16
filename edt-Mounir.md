@@ -5,17 +5,7 @@ title: 'Emploi de temps - Mounir'
 
 # Emploi de temps : Mounir
 
-<p class="text-secondary">Dernière mise à jour : 08/12/2025</p>
-#### Semaine 50 : Mounir (08/12/2025-12/12/2025)
-
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 08/12</th><th style="width:19%">mardi 09/12</th><th style="width:19%">mercredi 10/12</th><th style="width:19%">jeudi 11/12</th><th style="width:19%">vendredi 12/12</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>10h</small></td><td></td><td></td><td></td><td rowspan="2" class="table-warning" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>10h-12h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET931</span></small></p><h6 class="clearfix"><small>Méthodes en apprentissage automatique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Mounir Zrigui<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>11h</small></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>12h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td></td><td></td><td rowspan="2" class="table-primary" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET9U1</span></small></p><h6 class="clearfix"><small>Modélisation et représentation des connaissances</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Mounir Zrigui<span class="badge badge-info float-right float-bottom m-1">Salle Master TAL</span></small></p></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
-</table>
-
-
+<p class="text-secondary">Dernière mise à jour : 16/12/2025</p>
 #### Semaine 2 : Mounir (05/01/2026-09/01/2026)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 05/01</th><th style="width:19%">mardi 06/01</th><th style="width:19%">mercredi 07/01</th><th style="width:19%">jeudi 08/01</th><th style="width:19%">vendredi 09/01</th></tr>

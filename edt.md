@@ -30,7 +30,7 @@ title: "Emplois de temps"
 La salle Master TAL et les locaux du département TAL (entrée E, au-dessus du Grand Salon) sont disponibles pour les étudiants pendant toute la semaine. La salle Master TAL est accessible en dehors des cours pour le travail des étudiants.
 </p>
 
-<img src="/assets/fichiers/Permanences.png" alt="Permanences 2025-2026" class="w-50">
+<img src="/assets/fichiers/permanencesCT_S2_2026.png" alt="Permanences 2025-2026" class="w-50">
 
 
 </div>

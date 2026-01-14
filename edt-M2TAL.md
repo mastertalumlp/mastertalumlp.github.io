@@ -5,7 +5,7 @@ title: 'Emploi de temps - M2 TAL'
 
 # Emploi de temps : M2 TAL
 
-<p class="text-secondary">Dernière mise à jour : 16/12/2025</p>
+<p class="text-secondary">Dernière mise à jour : 14/01/2026</p>
 #### Semaine 4 : M2 TAL (19/01/2026-23/01/2026)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 19/01</th><th style="width:19%">mardi 20/01</th><th style="width:19%">mercredi 21/01</th><th style="width:19%">jeudi 22/01</th><th style="width:19%">vendredi 23/01</th></tr>

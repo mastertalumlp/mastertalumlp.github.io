@@ -16,8 +16,6 @@ title: 'Emploi de temps - M1 TAL'
 </table>
 
 
-<div class="col-2 float-right"><div class="card text-danger border-danger"> <div class="card-header fw-bold text-white bg-danger">Conflits de créneaux</div><div class="card-body"><p>Semaine 9 mardi 15h :</p><p>[2, 3, 4, 5, 7, 9, 10, 11, 12], mardi, 15h-17h, CM " (Y4GET821) Lexicometr... - Marion BENDINNELLI", P7</p><p>[9, 10, 11, 12], mardi, 15h-17h, CM " (Y4GET821) Lexicometr... - Marion BENDINNELLI", C22</p><p>Semaine 10 mardi 15h :</p><p>[2, 3, 4, 5, 7, 9, 10, 11, 12], mardi, 15h-17h, CM " (Y4GET821) Lexicometr... - Marion BENDINNELLI", P7</p><p>[9, 10, 11, 12], mardi, 15h-17h, CM " (Y4GET821) Lexicometr... - Marion BENDINNELLI", C22</p><p>Semaine 11 mardi 15h :</p><p>[2, 3, 4, 5, 7, 9, 10, 11, 12], mardi, 15h-17h, CM " (Y4GET821) Lexicometr... - Marion BENDINNELLI", P7</p><p>[9, 10, 11, 12], mardi, 15h-17h, CM " (Y4GET821) Lexicometr... - Marion BENDINNELLI", C22</p><p>Semaine 12 mardi 15h :</p><p>[2, 3, 4, 5, 7, 9, 10, 11, 12], mardi, 15h-17h, CM " (Y4GET821) Lexicometr... - Marion BENDINNELLI", P7</p><p>[9, 10, 11, 12], mardi, 15h-17h, CM " (Y4GET821) Lexicometr... - Marion BENDINNELLI", C22</p></div></div></div>
-
 #### Semaine 4 : M1 TAL (19/01/2026-23/01/2026)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 19/01</th><th style="width:19%">mardi 20/01</th><th style="width:19%">mercredi 21/01</th><th style="width:19%">jeudi 22/01</th><th style="width:19%">vendredi 23/01</th></tr>

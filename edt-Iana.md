@@ -5,7 +5,7 @@ title: 'Emploi de temps - Iana'
 
 # Emploi de temps : Iana
 
-<p class="text-secondary">Dernière mise à jour : 14/01/2026</p>
+<p class="text-secondary">Dernière mise à jour : 27/01/2026</p>
 #### Semaine 13 : Iana (23/03/2026-27/03/2026)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 23/03</th><th style="width:19%">mardi 24/03</th><th style="width:19%">mercredi 25/03</th><th style="width:19%">jeudi 26/03</th><th style="width:19%">vendredi 27/03</th></tr>

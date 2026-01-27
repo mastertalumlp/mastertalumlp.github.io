@@ -6,6 +6,15 @@ title: 'Emploi de temps - M2 TAL'
 # Emploi de temps : M2 TAL
 
 <p class="text-secondary">Dernière mise à jour : 27/01/2026</p>
+#### Semaine 5 : M2 TAL (26/01/2026-30/01/2026)
+
+<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 26/01</th><th style="width:19%">mardi 27/01</th><th style="width:19%">mercredi 28/01</th><th style="width:19%">jeudi 29/01</th><th style="width:19%">vendredi 30/01</th></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>9h</small></td><td></td><td></td><td></td><td></td><td rowspan="3" class="table-info" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>9h-12h</strong> <span class="badge badge-pill badge-secondary float-right">Séminaire</span></small></p><h6 class="clearfix"><small>Présentation (https://rendez-vous.renater.fr/seminaire-tal-crit)</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Hasen Mahdhaoui<span class="badge badge-info float-right float-bottom m-1">En ligne</span></small></p></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>10h</small></td><td></td><td></td><td></td><td></td></tr>
+<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>11h</small></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+
 #### Semaine 6 : M2 TAL (02/02/2026-06/02/2026)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 02/02</th><th style="width:19%">mardi 03/02</th><th style="width:19%">mercredi 04/02</th><th style="width:19%">jeudi 05/02</th><th style="width:19%">vendredi 06/02</th></tr>

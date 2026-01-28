@@ -5,7 +5,7 @@ title: 'Emploi de temps - Mounir'
 
 # Emploi de temps : Mounir
 
-<p class="text-secondary">Dernière mise à jour : 27/01/2026</p>
+<p class="text-secondary">Dernière mise à jour : 28/01/2026</p>
 #### Semaine 5 : Mounir (26/01/2026-30/01/2026)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 26/01</th><th style="width:19%">mardi 27/01</th><th style="width:19%">mercredi 28/01</th><th style="width:19%">jeudi 29/01</th><th style="width:19%">vendredi 30/01</th></tr>

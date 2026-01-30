@@ -5,19 +5,7 @@ title: 'Emploi de temps - Pierre'
 
 # Emploi de temps : Pierre
 
-<p class="text-secondary">Dernière mise à jour : 28/01/2026</p>
-#### Semaine 5 : Pierre (26/01/2026-30/01/2026)
-
-<table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 26/01</th><th style="width:19%">mardi 27/01</th><th style="width:19%">mercredi 28/01</th><th style="width:19%">jeudi 29/01</th><th style="width:19%">vendredi 30/01</th></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>8h</small></td><td></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>8h-10h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEE64T</span></small></p><h6 class="clearfix"><small>Initiation à la programmation pour le TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Pierre MERCURIALI<span class="badge badge-info float-right float-bottom m-1">C22</span></small></p></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>9h</small></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>10h</small></td><td></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>10h-12h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEE64T</span></small></p><h6 class="clearfix"><small>Initiation à la programmation pour le TAL</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Pierre MERCURIALI<span class="badge badge-info float-right float-bottom m-1">C22</span></small></p></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>11h</small></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>12h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>13h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>14h</small></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>15h</small></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GET841</span></small></p><h6 class="clearfix"><small>Outils pour la rédaction du mémoire</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Pierre MERCURIALI<span class="badge badge-info float-right float-bottom m-1">B17</span></small></p></td><td></td><td></td><td rowspan="2" class="table-success" style="border-radius:16px;"><p class="text-primary mb-0"><small><strong>15h-17h</strong> <span class="badge badge-pill badge-secondary float-right">Y4GEE44T</span></small></p><h6 class="clearfix"><small>Langues et informatique</small></h6><p class="text-primary mb-0 pb-0 clearfix"><small>Pierre MERCURIALI<span class="badge badge-info float-right float-bottom m-1">H12</span></small></p></td><td></td></tr>
-<tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td></tr>
-</table>
-
-
+<p class="text-secondary">Dernière mise à jour : 30/01/2026</p>
 #### Semaine 6 : Pierre (02/02/2026-06/02/2026)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 02/02</th><th style="width:19%">mardi 03/02</th><th style="width:19%">mercredi 04/02</th><th style="width:19%">jeudi 05/02</th><th style="width:19%">vendredi 06/02</th></tr>

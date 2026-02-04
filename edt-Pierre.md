@@ -5,7 +5,7 @@ title: 'Emploi de temps - Pierre'
 
 # Emploi de temps : Pierre
 
-<p class="text-secondary">Dernière mise à jour : 30/01/2026</p>
+<p class="text-secondary">Dernière mise à jour : 04/02/2026</p>
 #### Semaine 6 : Pierre (02/02/2026-06/02/2026)
 
 <table class="table table-sm table-bordered" style="width:100%; max-width:1200px; min-width:700px;"><tr class="table-active text-center"><th style="width:5%"></th><th style="width:19%">lundi 02/02</th><th style="width:19%">mardi 03/02</th><th style="width:19%">mercredi 04/02</th><th style="width:19%">jeudi 05/02</th><th style="width:19%">vendredi 06/02</th></tr>

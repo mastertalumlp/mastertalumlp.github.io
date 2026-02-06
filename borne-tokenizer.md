@@ -7,6 +7,9 @@ title: "Borne d'arcade TAL - Tokeniseurs"
 
 #### (Rule-based tokenizers)
 
+
+Auteur : Pierre Mercuriali
+
 <div class="explication">
 
 <img src="/assets/images/tokeniseurs.png" class="rounded m-3 w-50"/>
@@ -87,5 +90,3 @@ def handler(event):
 {% endraw %}
 
 
-
-Auteur : Pierre Mercuriali

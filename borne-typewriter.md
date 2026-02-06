@@ -5,6 +5,9 @@ title: "Borne d'arcade TAL - Le singe"
 
 ## Le singe qui tape à la machine
 
+
+Auteur : Pierre Mercuriali
+
 <div class="explication">
 
     <img src="/assets/images/singe.png" class="rounded m-3 w-50" style="float: right;"/>
@@ -73,6 +76,3 @@ def handler(event):
     </script>    
 {% endraw %}
 
-
-
-Auteur : Pierre Mercuriali

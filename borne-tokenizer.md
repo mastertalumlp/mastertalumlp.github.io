@@ -43,9 +43,12 @@ Auteur : Pierre Mercuriali
       <button id="tokenize">Tokénisation.</button>
   </div>
     
+<div style="float: left;"> 
 <fieldset class="terminal"><legend>Espaces</legend>              <p id="output1"> </p> </fieldset>
 <fieldset class="terminal"><legend>Espaces + ponctuation</legend><p id="output2"> </p> </fieldset>
 <fieldset class="terminal"><legend>Regex</legend>                <p id="output3"> </p> </fieldset>
+
+</div>
 
 
 {% raw %}

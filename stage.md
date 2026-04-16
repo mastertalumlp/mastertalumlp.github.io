@@ -46,15 +46,18 @@ La **soutenance de stage** consiste en une brève présentation, d'environ 5-10 
 
 </div>
 
-## Rappel des règles d'utilisation de l'IA générative
+<h2>Rappel des règles d'utilisation de l'IA générative</h2>
 
-Règles d'utilisation de l'IA votées à l'UMLP dans le cadre du règlement général des études et des examens (RGEE) pour l'année universitaire 2025-2026 et plus particulièrement les situations concernant le plagiat :   
+<p>Règles d'utilisation de l'IA votées à l'UMLP dans le cadre du règlement général des études et des examens (RGEE) pour l'année universitaire 2025-2026 et plus particulièrement les situations concernant le plagiat :  </p>
 
+<blockquote class="blockquote">
+<p><i>Article 2.4.3.1 Interdiction du plagiat (principe)<br>
 
-> Article 2.4.3.1 Interdiction du plagiat (principe)
-> [...]
-> L’utilisation des outils d’intelligence artificielle (IA) - tels que ChatGPT, DALL-E ou autres – est assimilée à l’emprunt ou citation d’une source externe. Cette utilisation est en principe autorisée, sauf lorsqu’elle est interdite par le sujet d’examen ou de devoir. Tout étudiant utilisant des outils d'intelligence artificielle lors de la réalisation d'épreuves écrites ou orales doit impérativement mentionner de manière explicite l'utilisation de ces outils ; ceci inclut tout travail rendu ayant été généré en totalité ou partiellement par une IA. L'omission de cette mention constitue une violation des règles de conduite académique et peut être considérée comme une tentative de fraude. Les travaux réalisés avec l'aide de l'IA doivent être clairement distingués des travaux entièrement réalisés par l'étudiant(e) lui-même, et les références aux sources utilisées doivent être fournies conformément aux pratiques académiques. Les règles énoncées ci-dessus pour l’IA sont applicables à l’usage de toutes les sources externes.
-> L’UMLP dispose d’outils informatiques de détection du plagiat. Les enseignants peuvent rechercher les tentatives de plagiat par l'utilisation de ces logiciels afin de s’assurer de l’honnêteté intellectuelle de l’usager. Les usagers communiquent, sur simple demande, une version numérique de leurs documents afin de permettre cette détection.
-    
+[...]<br>
+
+L’utilisation des outils d’intelligence artificielle (IA) - tels que ChatGPT, DALL-E ou autres – est assimilée à l’emprunt ou citation d’une source externe. Cette utilisation est en principe autorisée, sauf lorsqu’elle est interdite par le sujet d’examen ou de devoir. Tout étudiant utilisant des outils d'intelligence artificielle lors de la réalisation d'épreuves écrites ou orales doit impérativement mentionner de manière explicite l'utilisation de ces outils ; ceci inclut tout travail rendu ayant été généré en totalité ou partiellement par une IA. L'omission de cette mention constitue une violation des règles de conduite académique et peut être considérée comme une tentative de fraude. Les travaux réalisés avec l'aide de l'IA doivent être clairement distingués des travaux entièrement réalisés par l'étudiant(e) lui-même, et les références aux sources utilisées doivent être fournies conformément aux pratiques académiques. Les règles énoncées ci-dessus pour l’IA sont applicables à l’usage de toutes les sources externes.<br>
+
+L’UMLP dispose d’outils informatiques de détection du plagiat. Les enseignants peuvent rechercher les tentatives de plagiat par l'utilisation de ces logiciels afin de s’assurer de l’honnêteté intellectuelle de l’usager. Les usagers communiquent, sur simple demande, une version numérique de leurs documents afin de permettre cette détection.</i></p>
+</blockquote>
 
 

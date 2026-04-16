@@ -5,4 +5,4 @@ title: 'Emploi de temps - Ning'
 
 # Emploi de temps : Ning
 
-<p class="text-secondary">Dernière mise à jour : 01/04/2026</p>
+<p class="text-secondary">Dernière mise à jour : 16/04/2026</p>

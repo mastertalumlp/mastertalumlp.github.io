@@ -4,13 +4,6 @@ date: 2026-04-16
 header: "Soutenances"
 ---
 
-Les soutenances des mémoires et stages en Master TAL 2026 auront lieu aux dates suivantes :
-
-- Session 1 : lundi 18 mai 9h-12h au Grand Salon
-- Session 2 : vendredi 26 juin 9h-12h et 14h-17h au Grand Salon
-
-Les soutenances sont pubics, tout le monde est invité. Au dela d'iune simple evaluation et validation des modules de la formation, ces journees nous permettront de avoir un vrai discussion de recherche, sur des sujets d'actualite dans le domaine, et aussi de montrer les competences et le savoir-faire de nos etudiants.
-
 Les soutenances des mémoires et stages du Master TAL 2026 se tiendront aux dates suivantes :
 
 - Session 1 : **lundi 18 mai, 9h-12h** au Grand Salon

@@ -44,6 +44,7 @@ La **soutenance de stage** consiste en une brève présentation, d'environ 5-10 
   </div>
 </div>
 
+</div>
 
 ## Rappel des règles d'utilisation de l'IA générative
 
@@ -56,5 +57,4 @@ Règles d'utilisation de l'IA votées à l'UMLP dans le cadre du règlement gén
 > L’UMLP dispose d’outils informatiques de détection du plagiat. Les enseignants peuvent rechercher les tentatives de plagiat par l'utilisation de ces logiciels afin de s’assurer de l’honnêteté intellectuelle de l’usager. Les usagers communiquent, sur simple demande, une version numérique de leurs documents afin de permettre cette détection.
     
 
-</div>
 

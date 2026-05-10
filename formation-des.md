@@ -5,24 +5,36 @@ title: Formation Courte DES - Data Excellence Science
 
 <div class="banniere-des">
   <div class="banniere-logo gauche">
-    <!-- logo UMLP / TAL -->
+    <img src="/assets/images/logo-tal-ufr-slhs.jpg" alt="Département TAL - UFR SLHS - UMLP">
   </div>
 
   <div class="banniere-texte">
     <div class="banniere-surtitre">Nouvelle formation courte</div>
     <div class="banniere-titre">Data Excellence Science</div>
     <div class="banniere-soustitre">
-      Une collaboration entre Global Data Excellence et le Département TAL de l’UMLP
+      Une collaboration entre <strong>Global Data Excellence</strong> et le
+      <strong>Département Traitement Automatique des Langues</strong> de l’UMLP
     </div>
   </div>
 
   <div class="banniere-logo droite">
-    <!-- logo GDE -->
+    <img src="/assets/images/logo-gde.png" alt="Global Data Excellence">
   </div>
 </div>
 
 
+---
 
+<div class="banniere-texte">
+  <div class="banniere-surtitre">Formation courte sur mesure</div>
+  <div class="banniere-titre">Data Excellence Science</div>
+  <div class="banniere-soustitre">
+    Formation développée en partenariat entre <strong>Global Data Excellence</strong>
+    et le <strong>Département TAL de l’Université Marie et Louis Pasteur</strong>
+  </div>
+</div>
+
+---
 
 # Formation Courte Data Excellence Science
 

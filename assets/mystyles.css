@@ -90,23 +90,24 @@
   text-decoration: none;
 }
 
+
 .banniere-des {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 1.5rem;
-  background: #f8fbff;
+  background: linear-gradient(90deg, #f8fbff 0%, #eef6ff 100%);
   border: 1px solid #d7e7f7;
-  border-left: 6px solid #8ec5f8;
+  border-left: 8px solid #8ec5f8;
   border-radius: 12px;
   padding: 1.2rem 1.5rem;
-  margin: 2rem 0;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  margin: 2rem 0 2.5rem 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
 }
 
 .banniere-logo {
   flex: 0 0 auto;
-  max-width: 220px;
+  max-width: 240px;
 }
 
 .banniere-logo img {
@@ -123,27 +124,27 @@
 .banniere-surtitre {
   font-size: 0.95rem;
   font-weight: 700;
-  color: #3d6d99;
+  color: #4a78a8;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
-  margin-bottom: 0.3rem;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.4rem;
 }
 
 .banniere-titre {
   font-size: 2rem;
   font-weight: 800;
-  color: #1f3552;
+  color: #1e3550;
   line-height: 1.15;
-  margin-bottom: 0.35rem;
+  margin-bottom: 0.4rem;
 }
 
 .banniere-soustitre {
   font-size: 1.05rem;
-  color: #304860;
+  color: #2f465d;
   line-height: 1.4;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   .banniere-des {
     flex-direction: column;
     text-align: center;
@@ -156,7 +157,12 @@
   .banniere-titre {
     font-size: 1.5rem;
   }
+
+  .banniere-soustitre {
+    font-size: 1rem;
+  }
 }
+
 
 /* FIN DES */
 

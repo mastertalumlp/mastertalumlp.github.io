@@ -12,7 +12,7 @@ title: Formation Courte DES - Data Excellence Science
     <img src="/assets/images/UMLP-CRIT.png" alt="CRIT - UMLP">
   </div>
 
-  <div class="banniere-texte">
+  <div class="banniere-texte" href="https://mastertalumlp.github.io/formation-des.html">
     <div class="banniere-surtitre">Nouvelle formation courte</div>
     <div class="banniere-titre">Data Excellence Science</div>
     <div class="banniere-soustitre">

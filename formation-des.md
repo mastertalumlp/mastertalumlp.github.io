@@ -131,6 +131,7 @@ Le niveau débutant introduit les fondements de la Data Excellence Science, en p
  - Encadrement : équipe académique et industrielle (Université et Global Data Excellence).
  
 ## Modalités d’évaluation et certification
+
  - Examen écrit de 2 h sur la gouvernance des données, le DEF, le modèle de maturité et les enjeux IA.
  - Suivi de l’assiduité.
  - Délivrance de la certification Data Excellence Certificate (DEC) – niveau Basic.
@@ -227,17 +228,49 @@ Le niveau débutant introduit les fondements de la Data Excellence Science, en p
 
 <h1 id="avance">Niveau avancé</h1>
 
-Le niveau avancé approfondit la modélisation sémantique, la gouvernance par la valeur et la conduite d’une transformation vers la Data Excellence, avec configuration de DEMS, évaluation de maturité et animation d’un Data Excellence Lab. 
+La certification **DEC – Data Excellence Certificate – Advanced** approfondit le parcours Data Excellence Science en se concentrant sur la mise en œuvre opérationnelle du DEF et de la plateforme DEMS, IA en langage naturel pour piloter valeur, performance et risques. Elle met l’accent sur la gouvernance de l’IA (maîtrise des usages, explicabilité, gestion des risques) articulée avec la gouvernance des données.
 
 ## Objectifs
 
-- Maîtriser la DES dans son articulation avec la gouvernance, le droit, la linguistique et le management. 
-- Comprendre en profondeur la théorie « attribute–valere » et le rôle du SMM. 
-- Décrire les composantes du modèle de connaissance : verbatim, SMM, connaissances dynamiques, cockpits de valeur. 
-- Modéliser des connaissances sémantiques complexes et construire des graphes de connaissances. 
-- Configurer et piloter DEMS, ses référentiels, règles métier et cockpits contextuels. 
-- Conduire une évaluation de maturité et établir une feuille de route de transformation. 
-- Animer un Data Excellence Lab. 
+À l’issue de la formation, les participants pourront :
+
+ - Définir la valeur à créer grâce aux données et les règles pour la sécuriser.
+ - Implémenter le DEF dans des scénarios métier réels (finance, conformité, risques…).
+ - Configurer et utiliser DEMS en langage naturel, sans code, pour piloter la gouvernance.
+ - Concevoir des cockpits intelligents contextualisés pour un pilotage en temps réel.
+ - Appliquer la polarisation (KVI, DEI) pour prioriser les actions et anticiper les risques.
+ - Mettre en place des mécanismes de gouvernance de l’IA (traçabilité, explicabilité, alertes).
+ - Accompagner le changement vers une gouvernance data et IA responsable et souveraine.
+ 
+## Compétences visées
+
+ - **Savoirs** : modélisation sémantique avancée (ontologies, graphes, SMM), maturité data, DEI, polarisation KVI, gouvernance avancée de l’IA.
+ - **Savoir-faire** : paramétrer DEMS, concevoir des cockpits intelligents, conduire des analyses de maturité data/IA, élaborer des plans d’action priorisés.
+ - **Savoir-être** : fédérer des communautés interdisciplinaires et porter une approche responsable de la donnée et de l’IA.
+
+## Contenu de la formation
+
+ - Modélisation sémantique avancée et interopérabilité.
+ - Mise en œuvre détaillée du DEF dans des scénarios d’entreprise.
+ - Configuration avancée de DEMS : structures de gouvernance, règles métier, indicateurs, contextes.
+ - Conception de cockpits intelligents, tableaux de bord et systèmes d’alerte.
+ - Polarisation KVI et DEI, mesure d’impact et priorisation des actions.
+ - Gouvernance des risques IA et mécanismes de contrôle.
+ - Projets terrain : analyse de maturité data/IA, recommandations, mémoire et soutenance.
+ 
+## Organisation pédagogique
+
+ - Durée : 30 h en présentiel (5 jours) + 4 h d’examens et 3 h de soutenances.
+ - Pédagogie : cours interdisciplinaires, ateliers pratiques dans le Data Excellence Lab virtuel avec DEMS, études de cas, travaux en équipe, projets terrain.
+ - Encadrement : Prof. Iana Atanassova (UMLP/CRIT), Dr. Walid El Abed (Global Data Excellence) et experts associés.
+
+## Modalités d’évaluation et certification
+
+ - Examen écrit de 4 h sur le DEF, DEMS, la polarisation et la gouvernance des risques data/IA.
+ - Exercice pratique sur DEMS (cockpits et règles de gouvernance).
+ - Mémoire manuscrit et soutenance orale, avec possible valorisation scientifique.
+ - Suivi de l’assiduité et délivrance du DEC – niveau Advanced.
+ - Possibilité de poursuivre ensuite vers une certification **DEC-Expert**.
 
 ## Informations pratiques
 
@@ -248,13 +281,6 @@ Le niveau avancé approfondit la modélisation sémantique, la gouvernance par l
 - Tarif : 1 100 euros, soit 29,73 euros par heure. 
 - Effectif : minimum 10, maximum 16 participants. 
 
-## Certification et évaluation
-
-- Certification : **DEC – Data Excellence Certificate – Advanced**. 
-- Possibilité de poursuivre ensuite vers une certification **DEC-Expert**. 
-- Contrôle : examen écrit de 2h, exercice pratique, mémoire, puis soutenance. 
-- Certains mémoires peuvent donner lieu à publication après sélection. 
-- Aucun crédit ECTS n’est délivré. 
 
 ## Emploi du temps
 

@@ -182,7 +182,7 @@ Le niveau débutant introduit les fondements de la Data Excellence Science, en p
 
 ## Emploi du temps
 
-<table>
+<table class="table table-stripped">
   <thead>
     <tr>
       <th>Séance</th>
@@ -274,27 +274,127 @@ La certification **DEC – Data Excellence Certificate – Advanced** approfondi
 
 ## Informations pratiques
 
-- Dates : du 3 juillet 2026 au 12 septembre 2026, soutenance incluse. 
-- Volume horaire : 37h en présentiel. 
-- Rythme : 5 jours × 6h en juillet, 4h d’examen en juillet, 3h de soutenance en septembre. 
-- Lieu : UFR SLHS. 
-- Tarif : 1 100 euros, soit 29,73 euros par heure. 
-- Effectif : minimum 10, maximum 16 participants. 
+<div class="card-deck">
+
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Dates</h5>
+    <p class="card-text">
+       3 juillet - 12 septembre 2026, soutenance incluse
+</p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Rythme</h5>
+    <p class="card-text">
+    37h au total en présentiel
+</p>
+    <p class="card-text">
+    5 jours × 6h en juillet + 4h d’examen en juillet + 3h de soutenance en septembre
+</p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Lieux</h5>
+    <p class="card-text">
+    UFR SLHS, Centre-ville de Besançon</p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Tarif</h5>
+    <p class="card-text">
+    1 100 euros (soit 29,73 euros par heure)</p>
+  </div>
+</div>
+
+
+</div>
 
 
 ## Emploi du temps
 
-| Séance | Intervenant | Date | Horaires | Durée |
-|---|---|---|---|---|
-| DES niveau avancé | Walid El Abed | 03/07/2026 | 9h–12h et 14h–17h | 6h  |
-| DES niveau avancé | Walid El Abed | 04/07/2026 | 9h–12h | 3h  |
-| DES niveau avancé | Iana Atanassova | 04/07/2026 | 14h–17h | 3h  |
-| DES niveau avancé | Walid El Abed | 10/07/2026 | 9h–12h et 14h–17h | 6h  |
-| DES niveau avancé | Walid El Abed | 11/07/2026 | 9h–12h | 3h  |
-| DES niveau avancé | Iana Atanassova | 11/07/2026 | 14h–17h | 3h  |
-| DES niveau avancé | Walid El Abed | 17/07/2026 | 9h–12h et 14h–17h | 6h  |
-| Examen DES niveau avancé | Iana Atanassova | 18/07/2026 | 14h–18h | 4h  |
-| Soutenances DES niveau avancé | Walid El Abed, Iana Atanassova | 12/09/2026 | 9h–12h | 3h  |
+<table class="table table-stripped">
+  <thead>
+    <tr>
+      <th>Séance</th>
+      <th>Intervenant</th>
+      <th>Date</th>
+      <th>Horaires</th>
+      <th>Durée</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>DES niveau avancé</td>
+      <td>Walid El Abed</td>
+      <td>03/07/2026</td>
+      <td>9h–12h et 14h–17h</td>
+      <td>6h</td>
+    </tr>
+    <tr>
+      <td>DES niveau avancé</td>
+      <td>Walid El Abed</td>
+      <td>04/07/2026</td>
+      <td>9h–12h</td>
+      <td>3h</td>
+    </tr>
+    <tr>
+      <td>DES niveau avancé</td>
+      <td>Iana Atanassova</td>
+      <td>04/07/2026</td>
+      <td>14h–17h</td>
+      <td>3h</td>
+    </tr>
+    <tr>
+      <td>DES niveau avancé</td>
+      <td>Walid El Abed</td>
+      <td>10/07/2026</td>
+      <td>9h–12h et 14h–17h</td>
+      <td>6h</td>
+    </tr>
+    <tr>
+      <td>DES niveau avancé</td>
+      <td>Walid El Abed</td>
+      <td>11/07/2026</td>
+      <td>9h–12h</td>
+      <td>3h</td>
+    </tr>
+    <tr>
+      <td>DES niveau avancé</td>
+      <td>Iana Atanassova</td>
+      <td>11/07/2026</td>
+      <td>14h–17h</td>
+      <td>3h</td>
+    </tr>
+    <tr>
+      <td>DES niveau avancé</td>
+      <td>Walid El Abed</td>
+      <td>17/07/2026</td>
+      <td>9h–12h et 14h–17h</td>
+      <td>6h</td>
+    </tr>
+    <tr>
+      <td>Examen DES niveau avancé</td>
+      <td>Iana Atanassova</td>
+      <td>18/07/2026</td>
+      <td>14h–18h</td>
+      <td>4h</td>
+    </tr>
+    <tr>
+      <td>Soutenances DES niveau avancé</td>
+      <td>Walid El Abed, Iana Atanassova</td>
+      <td>12/09/2026</td>
+      <td>9h–12h</td>
+      <td>3h</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: talpage
-title: Formation courte DES – Data Excellence Science
-permalink: /formation-des.html
+title: Formation Courte DES - Data Excellence Science
 ---
 
 # Formation Courte Data Excellence Science
@@ -182,7 +181,7 @@ Le niveau débutant introduit les fondements de la Data Excellence Science, en p
 
 ## Emploi du temps
 
-<table class="table table-striped">
+<table>
   <thead>
     <tr>
       <th>Séance</th>
@@ -226,7 +225,7 @@ Le niveau débutant introduit les fondements de la Data Excellence Science, en p
 
 ---
 
-# Niveau avancé
+<h1 id="avance">Niveau avancé</h1>
 
 Le niveau avancé approfondit la modélisation sémantique, la gouvernance par la valeur et la conduite d’une transformation vers la Data Excellence, avec configuration de DEMS, évaluation de maturité et animation d’un Data Excellence Lab. 
 
@@ -279,5 +278,3 @@ Vous pouvez télécharger les fiches détaillées ci-dessous :
 
 - [Télécharger la fiche PDF – DES niveau débutant](/assets/docs/Programme-FC-Data-Excellence-Science-niveau-debutant-2.pdf)
 - [Télécharger la fiche PDF – DES niveau avancé](/assets/docs/Programme-FC-Data-Excellence-Science-niveau-avance.pdf) 
-
-> Remarque : pour que ces liens fonctionnent sur votre site Jekyll, il faut placer les deux fichiers PDF dans un dossier du dépôt, par exemple `assets/docs/`. [web:9]

@@ -427,12 +427,23 @@ La certification **DEC – Data Excellence Certificate – Advanced** approfondi
   <div class="card-body">
     <h5 class="card-title">Niveau débutant</h5>
     <p class="card-text">
-       3 juillet - 12 septembre 2026, soutenance incluse
+       <a class="btn btn-success" href="/assets/docs/Programme-FC-Data-Excellence-Science-niveau-debutant-2.pdf" target="_blank">Fiche détaillé - organisation - DES niveau débutant</a>
+</p>
+
+ <p class="card-text">
+       <a class="btn btn-success" href="/assets/docs/P.....pdf" target="_blank">Contenu - DES niveau débutant</a>
 </p>
   </div>
 </div>
 
-Vous pouvez télécharger les fiches détaillées ci-dessous :
 
-- [Télécharger la fiche PDF – DES niveau débutant](/assets/docs/Programme-FC-Data-Excellence-Science-niveau-debutant-2.pdf)
-- [Télécharger la fiche PDF – DES niveau avancé](/assets/docs/Programme-FC-Data-Excellence-Science-niveau-avance.pdf) 
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Niveau avancé</h5>
+    <p class="card-text">
+       <a class="btn btn-success" href="/assets/docs/Programme-FC-Data-Excellence-Science-niveau-avance.pdf" target="_blank">Fiche détaillé - organisation - DES niveau avancé</a>
+</p>
+  </div>
+</div>
+
+</div>

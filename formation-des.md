@@ -11,14 +11,16 @@ title: Formation Courte DES - Data Excellence Science
     <img src="/assets/images/UMLP-CRIT.png" alt="CRIT - UMLP">
   </div>
 
+<a href="https://mastertalumlp.github.io/formation-des.html">
   <div class="banniere-texte">
-    <div class="banniere-surtitre"><a href="https://mastertalumlp.github.io/formation-des.html">Nouvelle formation courte</a></div>
-    <div class="banniere-titre"><a href="https://mastertalumlp.github.io/formation-des.html">Data Excellence Science - niveau débutant et avancé</a></div>
-    <div class="banniere-soustitre"><a href="https://mastertalumlp.github.io/formation-des.html">
+    <div class="banniere-surtitre">Nouvelle formation courte</div>
+    <div class="banniere-titre">Data Excellence Science - niveau débutant et avancé</div>
+    <div class="banniere-soustitre">
       Une collaboration entre <strong>GDE</strong> et le
-      <strong>Département TAL</strong> de l’UMLP</a>
+      <strong>Département TAL</strong> de l’UMLP
     </div>
   </div>
+</a>
 
   <div class="banniere-logo droite">
     <a href="https://globaldataexcellence.com/" target="_blank"><img src="/assets/fichiers/DES/GDE.png" alt="Global Data Excellence"></a>
@@ -26,7 +28,7 @@ title: Formation Courte DES - Data Excellence Science
 </div>
 
 
-<p class="text-warning"><strong>Les candidatures sont ouvertes !</strong></p>
+<p class="text-danger center h3"><strong>Les candidatures sont ouvertes !</strong></p>
 
 # Formation Courte Data Excellence Science
 

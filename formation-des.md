@@ -5,7 +5,7 @@ title: Formation Courte DES - Data Excellence Science
 
 <div class="banniere-des">
   <div class="banniere-logo gauche">
-    <img src="/assets/images/logo_deptm_tal.png" alt="Département TAL - UFR SLHS - UMLP">
+    <img src="/assets/images/logo_deptm_tal.png" alt="Département TAL - UFR SLHS - UMLP" style="max-width:130px;">
   </div>
 
   <div class="banniere-logo gauche">

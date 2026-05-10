@@ -70,7 +70,7 @@
   background-color: #9fd3ff !important; /* bleu clair */
   color: #12324a !important;
   border-radius: 8px;
-  padding: 0.35rem 0.9rem !important;
+  padding: 0.35rem 0rem !important;
   margin-left: 0.5rem;
   line-height: 1.2;
   font-weight: bold;
@@ -84,11 +84,3 @@
   text-decoration: none;
 }
 
-
-.nav-des-subtitle {
-  font-size: 0.72rem;
-  font-weight: normal;
-  opacity: 0.95;
-  letter-spacing: 0.02em;
-  margin-top: 1px;
-}

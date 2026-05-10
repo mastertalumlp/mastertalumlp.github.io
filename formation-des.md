@@ -8,10 +8,11 @@ permalink: /formation-des.html
 
 La **formation courte Data Excellence Science (DES)** propose une initiation puis un approfondissement de la gouvernance des données par la valeur. Elle articule informatique, gestion, droit et linguistique afin de développer une approche durable, éthique et souveraine des données.
 
+La certification DEC initie à la gouvernance des données par la valeur, avec une approche durable, éthique et souveraine, à l’interface entre informatique, gestion, droit et linguistique. Elle pose les bases pour comprendre le rôle stratégique des données, leur maturité et les enjeux de l’IA responsable dans les organisations.
+
 Les travaux pratiques s’appuient sur le **Data Excellence Framework (DEF)** et sur le système **AI DEMS**, dans une pédagogie combinant théorie interdisciplinaire, études de cas, ateliers pratiques et travaux de terrain.
 
 ## Présentation générale
-
 
 <div class="card-deck">
 
@@ -55,33 +56,36 @@ Les travaux pratiques s’appuient sur le **Data Excellence Framework (DEF)** et
 
 </div>
 
-### Équipe pédagogique
+## Équipe pédagogique
 
-- Dr. Walid El Abed, fondateur de Global Data Excellence, docteur en Traitement Automatique des Langues.
-- Pr. Iana Atanassova, professeure en Traitement Automatique des Langues à l’UMLP.
+- **Dr. Walid El Abed**, fondateur de <a href="https://globaldataexcellence.com/" target="_blank">Global Data Excellence</a>, docteur en Traitement Automatique.
+- **Pr. Iana Atanassova**, professeure en Traitement Automatique des Langues, responsable du département TAL à l’UMLP.
 - Experts professionnels de Global Data Excellence.
 
 ## Admission et inscription
 
-Les documents demandés sont : CV, projet professionnel, diplômes universitaires et/ou certificats d’expérience professionnelle. Pour les demandeurs d’emploi, un projet professionnel France Travail est demandé.
+Les documents demandés sont : 
+- CV
+- projet professionnel,
+- diplômes universitaires et/ou certificats d’expérience professionnelle.
+- pour les demandeurs d’emploi : un projet professionnel France Travail.
 
-Les candidatures doivent être envoyées à :
+Les candidatures doivent être envoyées par voie électronique à :
 - walid.elabed@globaldataexcellence.com
 - iana.atanassova@umlp.fr
 
 L’inscription devient définitive après validation pédagogique, finalisation administrative et financière avec le SeFoC’Al, et atteinte de l’effectif minimum d’ouverture.
 
-### Tarifs préférentiels communs
+## Tarifs préférentiels communs
 
 - Demandeurs d’emploi : 20 % de remise.
 - Étudiants en Master, doctorants ou personnel de l’UMLP : 50 % de remise, ou selon les moyens.
 - Salariés d’une même entreprise : 10 % de remise à partir du deuxième inscrit.
 
-### Contact
+## Contact
 
 **Responsable pédagogique**  
 Pr. Iana Atanassova  
-Tél. : 06 99 74 93 67  
 E-mail : iana.atanassova@umlp.fr
 
 **Service Formation Continue et Alternance – SeFoC’Al**  
@@ -92,9 +96,11 @@ Site : [https://sefocal.univ-fcomte.fr/](https://sefocal.univ-fcomte.fr/)
 
 ---
 
-# Niveau débutant
+<h1 id="debutant">Niveau débutant</h1>
 
 Le niveau débutant introduit les fondements de la Data Excellence Science, en particulier la différence entre gouvernance par la performance et gouvernance par la valeur, ainsi que les notions centrales comme SMM, BER, DEI et KVI.
+
+Certification : **DEC – Data Excellence Certificate – Basic**.
 
 ## Objectifs
 
@@ -107,18 +113,47 @@ Le niveau débutant introduit les fondements de la Data Excellence Science, en p
 
 ## Informations pratiques
 
-- Dates : du 19 juin 2026 au 27 juin 2026.
-- Volume horaire : 14h en présentiel, dont 2h d’examen.
-- Rythme : 2 jours × 6h + 2h d’examen.
-- Lieu : UFR SLHS.
-- Tarif : 500 euros, soit 35,71 euros par heure.
-- Effectif : minimum 10, maximum 20 participants.
+<div class="card-deck">
 
-## Certification et évaluation
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Dates</h5>
+    <p class="card-text">
+    	19 - 27 juin 2026
+</p>
+  </div>
+</div>
 
-- Certification : **DEC – Data Excellence Certificate – Basic**.
-- Contrôle : examen écrit de 2h.
-- Aucun crédit ECTS n’est délivré.
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Rythme</h5>
+    <p class="card-text">
+    14h au total
+</p>
+    <p class="card-text">
+    2 jours × 6h d'enseignement + 2h d'examen écrit
+</p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Lieux</h5>
+    <p class="card-text">
+    UFR SLHS, Centre-ville de Besançon</p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Tarif</h5>
+    <p class="card-text">
+    500 euros (soit 35,71 euros par heure)</p>
+  </div>
+</div>
+
+
+</div>
 
 ## Emploi du temps
 

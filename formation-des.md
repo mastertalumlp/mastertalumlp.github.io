@@ -21,11 +21,9 @@ Les travaux pratiques s’appuient sur le **Data Excellence Framework (DEF)** et
     <h5 class="card-title">Publics cibles</h5>
     <p class="card-text">
     	<ul>
-    	<li>
-    		Étudiants en Master, notamment en informatique, droit, gestion et Traitement Automatique des Langues</li>
-    		<li>Doctorants</li>
-    		<li>Cadres supérieurs, administrateurs, responsables conformité</li>
-    		<li>Consultants en entreprise et consultants indépendants</li>
+    	<li>Cadres dirigeants, administrateurs, juridiques, conformité.</li>
+    	<li>Cadres et consultants en transformation digitale, data ou IA.</li>
+    	<li>Étudiants de Master et doctorants (TAL, informatique, droit, gestion) intéressés par la gouvernance des données.</li>
     	</ul></p>
   </div>
 </div>
@@ -98,18 +96,45 @@ Site : [https://sefocal.univ-fcomte.fr/](https://sefocal.univ-fcomte.fr/)
 
 <h1 id="debutant">Niveau débutant</h1>
 
+La certification **DEC – Data Excellence Certificate – Basic** initie à la gouvernance des données par la valeur, avec une approche durable, éthique et souveraine, à l’interface entre informatique, gestion, droit et linguistique. Elle pose les bases pour comprendre le rôle stratégique des données, leur maturité et les enjeux de l’IA responsable dans les organisations.
+
 Le niveau débutant introduit les fondements de la Data Excellence Science, en particulier la différence entre gouvernance par la performance et gouvernance par la valeur, ainsi que les notions centrales comme SMM, BER, DEI et KVI.
 
-Certification : **DEC – Data Excellence Certificate – Basic**.
 
-## Objectifs
+## Objectifs de la formation
 
-- Comprendre la vision « Elevate Data to Excellence ».
-- Expliquer à haut niveau ce qu’est la DES et ses quatre piliers de valeur : agilité, confiance, intelligence, transparence.
-- Décrire le rôle du Semantic Meta Model (SMM).
-- Comprendre le verbatim comme glossaire sémantique contrôlé reliant termes métier et données physiques.
-- Identifier des cas simples de BER, DEI et KVI.
-- Lire et interpréter des tableaux ou cockpits simples DEI/KVI.
+À l'issue de la formation, les participants pourront :
+- Définir la gouvernance des données et son positionnement dans l’organisation.
+- Comprendre les principes de gouvernance par la valeur et leurs impacts sur la stratégie.
+ - Situer leur organisation dans le modèle DEMM et appréhender l’indice DEI.
+ - Identifier les structures internes nécessaires à une gouvernance durable.
+ - Comprendre les grandes étapes du DEF, le rôle de DEMS et les liens avec l’IA.
+ 
+## Compétences visées
+
+ - **Savoirs** : principes de gouvernance par la valeur, bases de modélisation sémantique, maturité data (DEMM) et indice DEI, enjeux IA (qualité, traçabilité, risques).
+ - **Savoir-faire** : analyser la maturité data d’une organisation, identifier les axes de progrès, contribuer aux règles et structures de gouvernance.
+ - **Savoir-être** : adopter une posture de leader responsable de la donnée, intégrant éthique, transparence et souveraineté.
+ 
+
+## Contenu de la formation
+
+ - Contexte de la Data Excellence Science et limites des approches probabilistes.
+ - Principes de la gouvernance par la valeur.
+ - Introduction au Data Excellence Framework (DEF) et au système DEMS.
+ - Modèle de maturité DEMM et indice DEI.
+ - Enjeux de l’IA dans la gouvernance des données.
+ 
+## Organisation pédagogique
+
+ - Durée : 12 h en présentiel (2 jours) + 2 h d’examen écrit.
+ - Pédagogie : exposés, études de cas, travaux de groupe, scénarios de mise en situation.
+ - Encadrement : équipe académique et industrielle (Université et Global Data Excellence).
+ 
+## Modalités d’évaluation et certification
+ - Examen écrit de 2 h sur la gouvernance des données, le DEF, le modèle de maturité et les enjeux IA.
+ - Suivi de l’assiduité.
+ - Délivrance de la certification Data Excellence Certificate (DEC) – niveau Basic.
 
 ## Informations pratiques
 
@@ -157,12 +182,47 @@ Certification : **DEC – Data Excellence Certificate – Basic**.
 
 ## Emploi du temps
 
-| Séance | Intervenant | Date | Horaires | Durée |
-|---|---|---|---|---|
-| DES niveau débutant | Walid El Abed | 19/06/2026 | 14h–17h | 3h |
-| DES niveau débutant | Iana Atanassova | 19/06/2026 | 9h–12h | 3h |
-| DES niveau débutant | Walid El Abed | 20/06/2026 | 9h–12h et 14h–17h | 6h |
-| Examen DES niveau débutant | Iana Atanassova | 27/06/2026 | 10h–12h | 2h |
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Séance</th>
+      <th>Intervenant</th>
+      <th>Date</th>
+      <th>Horaires</th>
+      <th>Durée</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>DES niveau débutant</td>
+      <td>Walid El Abed</td>
+      <td>19/06/2026</td>
+      <td>14h–17h</td>
+      <td>3h</td>
+    </tr>
+    <tr>
+      <td>DES niveau débutant</td>
+      <td>Iana Atanassova</td>
+      <td>19/06/2026</td>
+      <td>9h–12h</td>
+      <td>3h</td>
+    </tr>
+    <tr>
+      <td>DES niveau débutant</td>
+      <td>Walid El Abed</td>
+      <td>20/06/2026</td>
+      <td>9h–12h et 14h–17h</td>
+      <td>6h</td>
+    </tr>
+    <tr>
+      <td>Examen DES niveau débutant</td>
+      <td>Iana Atanassova</td>
+      <td>27/06/2026</td>
+      <td>10h–12h</td>
+      <td>2h</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 

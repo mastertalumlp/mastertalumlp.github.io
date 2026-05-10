@@ -430,11 +430,11 @@ La certification **DEC – Data Excellence Certificate – Advanced** approfondi
   <div class="card-header">Niveau débutant</div>
   <div class="card-body">
     <p class="card-text">
-       <a class="btn" href="/assets/fichiers/Programme FC Data Excellence Science niveau débutant.pdf" target="_blank">Fiche détaillé - DES niveau débutant</a>
+       <a class="btn" href="/assets/fichiers/DES/Programme FC Data Excellence Science niveau débutant.pdf" target="_blank">Fiche détaillé - DES niveau débutant</a>
 </p>
 
  <p class="card-text">
-       <a class="btn" href="/assets/fichiers/SHORT-FORMATION DATA-EXCELLENCE-SCIENCE-BASIQUE UMLP-2026.pdf" target="_blank">Contenu - DES niveau débutant</a>
+       <a class="btn" href="/assets/fichiers/DES/SHORT-FORMATION DATA-EXCELLENCE-SCIENCE-BASIQUE UMLP-2026.pdf" target="_blank">Contenu - DES niveau débutant</a>
 </p>
   </div>
 </div>
@@ -444,10 +444,10 @@ La certification **DEC – Data Excellence Certificate – Advanced** approfondi
   <div class="card-header">Niveau avancé</div>
   <div class="card-body">
     <p class="card-text">
-       <a class="btn" href="/assets/fichiers/Programme FC Data Excellence Science niveau avancé.pdf" target="_blank">Fiche détaillé - DES niveau avancé</a>
+       <a class="btn" href="/assets/fichiers/DES/Programme FC Data Excellence Science niveau avancé.pdf" target="_blank">Fiche détaillé - DES niveau avancé</a>
 </p>
  <p class="card-text">
-       <a class="btn" href="/assets/fichiers/SHORT-FORMATION DATA-EXCELLENCE-SCIENCE-AVANCE UMLP-2026.pdf" target="_blank">Contenu - DES niveau avancé</a>
+       <a class="btn" href="/assets/fichiers/DES/SHORT-FORMATION DATA-EXCELLENCE-SCIENCE-AVANCE UMLP-2026.pdf" target="_blank">Contenu - DES niveau avancé</a>
 </p>
   </div>
 </div>

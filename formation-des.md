@@ -3,6 +3,27 @@ layout: talpage
 title: Formation Courte DES - Data Excellence Science
 ---
 
+<div class="banniere-des">
+  <div class="banniere-logo gauche">
+    <!-- logo UMLP / TAL -->
+  </div>
+
+  <div class="banniere-texte">
+    <div class="banniere-surtitre">Nouvelle formation courte</div>
+    <div class="banniere-titre">Data Excellence Science</div>
+    <div class="banniere-soustitre">
+      Une collaboration entre Global Data Excellence et le Département TAL de l’UMLP
+    </div>
+  </div>
+
+  <div class="banniere-logo droite">
+    <!-- logo GDE -->
+  </div>
+</div>
+
+
+
+
 # Formation Courte Data Excellence Science
 
 La **formation courte Data Excellence Science (DES)** propose une initiation puis un approfondissement de la gouvernance des données par la valeur. Elle articule informatique, gestion, droit et linguistique afin de développer une approche durable, éthique et souveraine des données.
@@ -399,6 +420,17 @@ La certification **DEC – Data Excellence Certificate – Advanced** approfondi
 ---
 
 # Fiches des formations
+
+<div class="card-deck">
+
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Niveau débutant</h5>
+    <p class="card-text">
+       3 juillet - 12 septembre 2026, soutenance incluse
+</p>
+  </div>
+</div>
 
 Vous pouvez télécharger les fiches détaillées ci-dessous :
 

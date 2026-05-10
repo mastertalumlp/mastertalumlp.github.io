@@ -66,6 +66,12 @@
       text-align: right;
     }
 
+
+
+/* DES */
+
+
+
 .nav-des-btn {
   background-color: #9fd3ff !important; /* bleu clair */
   color: #12324a !important;
@@ -83,4 +89,74 @@
   color: #0d2940 !important;
   text-decoration: none;
 }
+
+.banniere-des {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  background: #f8fbff;
+  border: 1px solid #d7e7f7;
+  border-left: 6px solid #8ec5f8;
+  border-radius: 12px;
+  padding: 1.2rem 1.5rem;
+  margin: 2rem 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.banniere-logo {
+  flex: 0 0 auto;
+  max-width: 220px;
+}
+
+.banniere-logo img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.banniere-texte {
+  flex: 1 1 auto;
+  text-align: center;
+}
+
+.banniere-surtitre {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #3d6d99;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.3rem;
+}
+
+.banniere-titre {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #1f3552;
+  line-height: 1.15;
+  margin-bottom: 0.35rem;
+}
+
+.banniere-soustitre {
+  font-size: 1.05rem;
+  color: #304860;
+  line-height: 1.4;
+}
+
+@media (max-width: 768px) {
+  .banniere-des {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .banniere-logo {
+    max-width: 260px;
+  }
+
+  .banniere-titre {
+    font-size: 1.5rem;
+  }
+}
+
+/* FIN DES */
 

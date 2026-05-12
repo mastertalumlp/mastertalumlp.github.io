@@ -82,7 +82,7 @@ Les travaux pratiques s’appuient sur le **Data Excellence Framework (DEF)** et
 
 ## Équipe pédagogique
 
-- **Dr. Walid El Abed**, fondateur de <a href="https://globaldataexcellence.com/" target="_blank">Global Data Excellence</a>, docteur en Traitement Automatique.
+- **Dr. Walid El Abed**, fondateur de <a href="https://globaldataexcellence.com/" target="_blank">Global Data Excellence</a>, docteur en linguistique et informatique spécialité traitement automatique des langues. Chercheur associé au CRIT à l'UMLP.
 - **Pr. Iana Atanassova**, professeure en Traitement Automatique des Langues, responsable du département TAL à l’UMLP.
 - Experts professionnels de Global Data Excellence.
 

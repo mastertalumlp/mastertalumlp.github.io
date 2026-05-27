@@ -37,7 +37,7 @@ Les feuilles de style ci-dessous sont fournies à titre indicatif. Les étudiant
 
 </div>
 
-<div class="card-deck">
+<div class="card-deck mt-5">
 
 <div class="card">
   <div class="card-body">

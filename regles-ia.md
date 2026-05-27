@@ -11,7 +11,7 @@ Les outils d'intelligence artificielle générative peuvent être utiles pour ap
 
 Cette page précise ce qui est attendu dans les mémoires, rapports, livrables et devoirs produits dans le cadre de la formation.
 
-## Ce qui est autorisé
+## Ce qui est autorisé et attendu
 
 L'utilisation d'une IA générative est autorisée lorsque :
 
@@ -19,15 +19,6 @@ L'utilisation d'une IA générative est autorisée lorsque :
 - elle sert d'aide ponctuelle et ne remplace pas le travail personnel ;
 - elle est déclarée clairement dans le document rendu, avec l'accord de l'enseignant.e.
 
-Par exemple, une IA peut être utilisée pour :
-- reformuler un passage ;
-- corriger l'orthographe ou la syntaxe ;
-- aider à structurer un plan ;
-- proposer des pistes de recherche bibliographique ;
-- résumer un texte pour en faciliter la lecture ;
-- produire une première version de schéma, tableau ou figure, à condition de la vérifier et de la commenter.
-
-## Ce qui est attendu
 
 Toute utilisation d'une IA générative doit être mentionnée dans le document produit. Cette mention doit indiquer :
 

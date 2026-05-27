@@ -34,6 +34,7 @@ Dans tous les cas, l'étudiant auteur/ice d'un document soumis en tant que devoi
 ## Exemple de déclaration
 
 <blockquote class="blockquote">
+<p><i>
 « Dans le cadre du travail présenté dans ce document, j'ai eu recours à des modèles de langage (notamment &lt; préciser ici les outils utilisés : par ex. ChatGPT, Gemini, Claude, etc. &gt;) pour les tâches suivantes :<br>
 &lt; adapter la liste à votre usage réel &gt;<br>
 - recherche de sources bibliographiques et enrichissement de la bibliographie<br>
@@ -47,6 +48,7 @@ Dans tous les cas, l'étudiant auteur/ice d'un document soumis en tant que devoi
 - production d'images, d'illustrations ou de graphiques (&lt; préciser &gt;)<br>
 - autres usages : &lt; préciser &gt;<br><br>
 L'auteur ou l'autrice de ce document certifie être l'unique responsable du contenu. Les résultats, analyses, interprétations et conclusions présentés relèvent uniquement de sa réflexion personnelle. »
+</i></p>
 </blockquote>
 
 ## Bonnes pratiques

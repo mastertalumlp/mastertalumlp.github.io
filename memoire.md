@@ -35,6 +35,10 @@ Les feuilles de style ci-dessous sont fournies à titre indicatif. Les étudiant
   </div>
 </div>
 
+</div>
+
+<div class="card-deck">
+
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Grille d'évaluation pour le mémoire de recherche en Master TAL</h5>
@@ -43,35 +47,32 @@ Les feuilles de style ci-dessous sont fournies à titre indicatif. Les étudiant
   </div>
 </div>
 
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Informations sur l'utilisation des IA génératives en Master TAL</h5>
+    <p class="card-text"><a href="regles-ia.html">Règles d'utilisation de l'IA générative</a></p>
+  </div>
 </div>
+
+</div>
+
+## Impression des mémoires
+ 
+Une fois le PDF de la version finale de votre manuscrit produit, vous devez l’imprimer et le relier. Le jour de la soutenance, vous devez vous présenter avec la version imprimée.
+ 
+Pour les mémoires de M2 (parcours recherche uniquement) : le mémoire doit être imprimé en 3 exemplaires, avec une reliure thermocollée (les reliures à spirale ne sont pas acceptées). Les deux exemplaires supplémentaires sont demandés par la bibliothèque et la scolarité.
+
 
 
 ## Quelques sujets de mémoire récemment traités par nos étudiants
 
 <ul class="list-group w-100">
-		<li class="list-group-item">"Génération d'exercices d'apprentissage de langue de spécialité par l'exploration du corpus"</li>
-		<li class="list-group-item">"Création et reconnaissance de néologismes par méthode de suffixation"</li>
-		    <li class="list-group-item">"Catégorisation des phrases pour la cartographie des maladies tropicales"</li>
-		    <li class="list-group-item">"Les ambiguïtés orales en français et leur traitement automatique pour les systèmes de reconnaissance automatique de la parole"</li>
-		    <li class="list-group-item">"Identification de la violence 
+    <li class="list-group-item">"Génération d'exercices d'apprentissage de langue de spécialité par l'exploration du corpus"</li>
+    <li class="list-group-item">"Création et reconnaissance de néologismes par méthode de suffixation"</li>
+        <li class="list-group-item">"Catégorisation des phrases pour la cartographie des maladies tropicales"</li>
+        <li class="list-group-item">"Les ambiguïtés orales en français et leur traitement automatique pour les systèmes de reconnaissance automatique de la parole"</li>
+        <li class="list-group-item">"Identification de la violence 
 physique dans les romans de young adult fantasy dans l’optique de 
 produire automatiquement des avertissements de contenu adaptés aux 
 œuvres littéraires"</li>
 </ul>
-
-
-<h2>Rappel des règles d'utilisation de l'IA générative</h2>
-
-<p>Règles d'utilisation de l'IA votées à l'UMLP dans le cadre du règlement général des études et des examens (RGEE) pour l'année universitaire 2025-2026 et plus particulièrement les situations concernant le plagiat :  </p>
-
-<blockquote class="blockquote">
-<p><i>Article 2.4.3.1 Interdiction du plagiat (principe)<br>
-
-[...]<br>
-
-L’utilisation des outils d’intelligence artificielle (IA) - tels que ChatGPT, DALL-E ou autres – est assimilée à l’emprunt ou citation d’une source externe. Cette utilisation est en principe autorisée, sauf lorsqu’elle est interdite par le sujet d’examen ou de devoir. Tout étudiant utilisant des outils d'intelligence artificielle lors de la réalisation d'épreuves écrites ou orales doit impérativement mentionner de manière explicite l'utilisation de ces outils ; ceci inclut tout travail rendu ayant été généré en totalité ou partiellement par une IA. L'omission de cette mention constitue une violation des règles de conduite académique et peut être considérée comme une tentative de fraude. Les travaux réalisés avec l'aide de l'IA doivent être clairement distingués des travaux entièrement réalisés par l'étudiant(e) lui-même, et les références aux sources utilisées doivent être fournies conformément aux pratiques académiques. Les règles énoncées ci-dessus pour l’IA sont applicables à l’usage de toutes les sources externes.<br>
-
-L’UMLP dispose d’outils informatiques de détection du plagiat. Les enseignants peuvent rechercher les tentatives de plagiat par l'utilisation de ces logiciels afin de s’assurer de l’honnêteté intellectuelle de l’usager. Les usagers communiquent, sur simple demande, une version numérique de leurs documents afin de permettre cette détection.</i></p>
-</blockquote>
-
-

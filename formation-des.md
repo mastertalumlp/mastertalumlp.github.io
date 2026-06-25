@@ -34,21 +34,20 @@ title: Formation Courte DES - Data Excellence Science
 
 <div class="banniere-des">
 
-<div class="banniere-logo gauche">
-    <div class="banniere-texte">
+  <div class="banniere-texte">
     <div class="banniere-surtitre">DES débutant</div>
     <div class="banniere-titre">18/09/2026 - 26/09/2026</div>
     <div class="banniere-soustitre">
       Les cours ont lieu les vendredis et samedis.
     </div>
   </div>
-  </div>
 
-  <div class="banniere-logo gauche">
-    <div class="banniere-texte">
+   <div class="banniere-texte">
     <div class="banniere-surtitre">DES débutant</div>
     <div class="banniere-titre">19/03/2027 - 27/03/2027</div>
-  </div>
+    <div class="banniere-soustitre">
+      Les cours ont lieu les vendredis et samedis.
+    </div>
   </div>
 
    <div class="banniere-texte">

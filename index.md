@@ -2,30 +2,7 @@
 layout: talpage
 title: "Formations TAL UMLP"
 ---
-<div class="banniere-des">
-  <div class="banniere-logo gauche">
-    <img src="/assets/images/logo_deptm_tal.png" alt="Département TAL - UFR SLHS - UMLP" style="max-width:130px;">
-  </div>
 
-  <div class="banniere-logo gauche">
-    <img src="/assets/images/UMLP-CRIT.png" alt="CRIT - UMLP">
-  </div>
-
-<a href="https://mastertalumlp.github.io/formation-des.html">
-  <div class="banniere-texte">
-    <div class="banniere-surtitre">Nouvelle formation courte</div>
-    <div class="banniere-titre">Data Excellence Science - niveau débutant et avancé</div>
-    <div class="banniere-soustitre">
-      Une collaboration entre <strong>GDE</strong> et le
-      <strong>Département TAL</strong> de l’UMLP
-    </div>
-  </div>
-</a>
-
-  <div class="banniere-logo droite">
-    <a href="https://globaldataexcellence.com/" target="_blank"><img src="/assets/fichiers/DES/GDE.png" alt="Global Data Excellence"></a>
-  </div>
-</div>
 
 
 ## Actualités
@@ -79,6 +56,34 @@ title: "Formations TAL UMLP"
 
 <div class="mb-5"></div>
 
+<div class="banniere-des">
+  <div class="banniere-logo gauche">
+    <img src="/assets/images/logo_deptm_tal.png" alt="Département TAL - UFR SLHS - UMLP" style="max-width:130px;">
+  </div>
+
+  <div class="banniere-logo gauche">
+    <img src="/assets/images/UMLP-CRIT.png" alt="CRIT - UMLP">
+  </div>
+
+<a href="https://mastertalumlp.github.io/formation-des.html">
+  <div class="banniere-texte">
+    <div class="banniere-surtitre">Nouvelle formation courte</div>
+    <div class="banniere-titre">Data Excellence Science - niveau débutant et avancé</div>
+    <div class="banniere-soustitre">
+      Une collaboration entre <strong>GDE</strong> et le
+      <strong>Département TAL</strong> de l’UMLP
+    </div>
+  </div>
+</a>
+
+  <div class="banniere-logo droite">
+    <a href="https://globaldataexcellence.com/" target="_blank"><img src="/assets/fichiers/DES/GDE.png" alt="Global Data Excellence"></a>
+  </div>
+</div>
+
+
+
+<div class="mb-5"></div>
 
 
 ## Calendrier universitaire 2025-2026

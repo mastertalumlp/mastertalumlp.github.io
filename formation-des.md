@@ -30,6 +30,38 @@ title: Formation Courte DES - Data Excellence Science
 
 <p class="text-danger center h3"><strong>Les candidatures sont ouvertes !</strong></p>
 
+# Calendrier des prochaines formations
+
+<div class="banniere-des">
+
+<div class="banniere-logo gauche">
+    <div class="banniere-texte">
+    <div class="banniere-surtitre">DES débutant</div>
+    <div class="banniere-titre">18/09/2026 - 26/09/2026</div>
+    <div class="banniere-soustitre">
+      Les cours ont lieu les vendredis et samedis.
+    </div>
+  </div>
+  </div>
+
+  <div class="banniere-logo gauche">
+    <div class="banniere-texte">
+    <div class="banniere-surtitre">DES débutant</div>
+    <div class="banniere-titre">19/03/2027 - 27/03/2027</div>
+  </div>
+  </div>
+
+   <div class="banniere-texte">
+    <div class="banniere-surtitre">DES avancé</div>
+    <div class="banniere-titre">09/04/2027 - 24/04/2027</div>
+    <div class="banniere-soustitre">
+      Soutenances prévues le 05/06/2027.
+    </div>
+  </div>
+
+</div>
+
+
 # Formation Courte Data Excellence Science
 
 La **formation courte Data Excellence Science (DES)** propose une initiation puis un approfondissement de la gouvernance des données par la valeur. Elle articule informatique, gestion, droit et linguistique afin de développer une approche durable, éthique et souveraine des données.
@@ -171,7 +203,7 @@ Le niveau débutant introduit les fondements de la Data Excellence Science, en p
   <div class="card-body">
     <h5 class="card-title">Dates</h5>
     <p class="card-text">
-    	19 - 27 juin 2026
+    	Séances les vendredis et samedis, plusieurs sessions proposées dans l'année.  Consulter le calendrier en haut de la page.
 </p>
   </div>
 </div>
@@ -307,7 +339,7 @@ La certification **DEC – Data Excellence Certificate – Advanced** approfondi
   <div class="card-body">
     <h5 class="card-title">Dates</h5>
     <p class="card-text">
-       3 juillet - 12 septembre 2026, soutenance incluse
+       Séances les vendredis et samedis. Consulter le calendrier en haut de la page. 
 </p>
   </div>
 </div>

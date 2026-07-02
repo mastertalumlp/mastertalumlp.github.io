@@ -3,7 +3,41 @@ layout: talpage
 title: 'Emploi de temps - M1 TAL'
 ---
 
-# Emploi de temps : M1 TAL
+# M1 TAL : Emploi de temps
+
+  <div class="calendar-wrapper">
+    <iframe
+      src="https://framagenda.org/apps/calendar/embed/pJzT2gPGwpQD9Rdp/dayGridMonth/now"
+      width="100%"
+      height="700"
+      style="border: 0;"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin">
+    </iframe>
+  </div>
+
+  <p class="calendar-note">
+    Si l’agenda ne s’affiche pas correctement, vous pouvez aussi
+    <a href="https://framagenda.org/apps/calendar/p/pJzT2gPGwpQD9Rdp" target="_blank" rel="noopener noreferrer">ouvrir la vue publique dans un nouvel onglet</a>.
+  </p>
+<style>
+.calendar-wrapper {
+  margin: 1.5rem 0;
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.calendar-note {
+  font-size: 0.95rem;
+  color: #555;
+}
+</style>
+
+
+<!--
+
 
 <p class="text-secondary">Dernière mise à jour : 16/04/2026</p>
 #### Semaine 21 : M1 TAL (18/05/2026-22/05/2026)
@@ -28,4 +62,4 @@ title: 'Emploi de temps - M1 TAL'
 <tr><td class="table-active text-center" style="vertical-align:middle;height:70px;"><small>16h</small></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-
+-->

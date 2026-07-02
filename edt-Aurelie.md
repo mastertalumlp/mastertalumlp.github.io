@@ -1,8 +1,0 @@
----
-layout: talpage
-title: 'Emploi de temps - Aurelie'
----
-
-# Emploi de temps : Aurelie
-
-<p class="text-secondary">Dernière mise à jour : 16/04/2026</p>

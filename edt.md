@@ -4,35 +4,96 @@ title: "Emplois de temps"
 ---
 
 
-<div class="row p-5">
-	<div class="col-10">
+# Emplois de temps : Master Traitement Automatique des Langues
+
+Les emplois de temps sont succeptibles d'être modifiés régulièrement. Toute modification de dernière minute sera communiquée par courriel aux étudiants sur les boîtes mail umlp. 
+
+Les emplois de temps de la plateforme ADE de l'université sont susceptibles de ne pas toujours refléter les dernières mises à jour, car leur actualisation peut être différée. En cas de question ou de doute, nous vous invitons à contacter directement les enseignants pour obtenir des informations précises.
 
 
-<h1>Emplois de temps : Master Traitement Automatique des Langues</h1>
+## Master 1 TAL
 
-<h3>Année 2025-2026</h3>
+<!-- https://framagenda.org/apps/calendar/p/pJzT2gPGwpQD9Rdp -->
+
+  <div class="calendar-wrapper">
+    <iframe
+      src="https://framagenda.org/apps/calendar/embed/pJzT2gPGwpQD9Rdp/dayGridMonth/now"
+      width="80%"
+      height="600"
+      style="border: 0;"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin">
+    </iframe>
+  </div>
+
+  <p class="calendar-note">
+    Si l’agenda ne s’affiche pas correctement, vous pouvez aussi
+    <a href="https://framagenda.org/apps/calendar/p/pJzT2gPGwpQD9Rdp" target="_blank" rel="noopener noreferrer">ouvrir la vue publique dans un nouvel onglet</a>.
+  </p>
 
 
-<a class="btn btn-outline-primary mt-5 mx-5 w-25 font-weight-bold" href="edt-M1TAL.html">EDT Master 1</a>
+## Master 2 TAL
 
-<a type="button" class="btn btn-outline-success mt-5 mx-5 w-25 font-weight-bold" href="edt-M2TAL.html">EDT Master 2</a>
+<!-- https://framagenda.org/apps/calendar/p/cd623xH3PDo5qzzj -->
 
-<a class="btn btn-outline-secondary mt-5 mx-5 w-25 font-weight-bold" href="edt-SalleMasterTAL.html">Occupation de la salle Master TAL</a>
+  <div class="calendar-wrapper">
+    <iframe
+      src="https://framagenda.org/apps/calendar/embed/cd623xH3PDo5qzzj/dayGridMonth/now"
+      width="80%"
+      height="600"
+      style="border: 0;"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin">
+    </iframe>
+  </div>
 
-<p class="m-5"> </p>
+  <p class="calendar-note">
+    Si l’agenda ne s’affiche pas correctement, vous pouvez aussi
+    <a href="https://framagenda.org/apps/calendar/p/cd623xH3PDo5qzzj" target="_blank" rel="noopener noreferrer">ouvrir la vue publique dans un nouvel onglet</a>.
+  </p>
 
-<p>Les emplois du temps disponibles sur la plateforme ADE de l'université sont susceptibles de ne pas toujours refléter les dernières mises à jour, car leur actualisation peut être différée. En cas de question ou de doute, nous vous invitons à contacter directement les enseignants pour obtenir des informations précises.</p>
+
+## Cours TAL en Licence (LLCER / LEA)
+
+<!-- https://framagenda.org/apps/calendar/p/dAPPYWcgYPm9W58K -->
+
+  <div class="calendar-wrapper">
+    <iframe
+      src="https://framagenda.org/apps/calendar/embed/dAPPYWcgYPm9W58K/dayGridMonth/now"
+      width="80%"
+      height="600"
+      style="border: 0;"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin">
+    </iframe>
+  </div>
+
+  <p class="calendar-note">
+    Si l’agenda ne s’affiche pas correctement, vous pouvez aussi
+    <a href="https://framagenda.org/apps/calendar/p/dAPPYWcgYPm9W58K" target="_blank" rel="noopener noreferrer">ouvrir la vue publique dans un nouvel onglet</a>.
+  </p>
 
 
-<h1>Permanences du département TAL</h1>
+# Permanences du département TAL
 
-<p>
 La salle Master TAL et les locaux du département TAL (entrée E, au-dessus du Grand Salon) sont disponibles pour les étudiants pendant toute la semaine. La salle Master TAL est accessible en dehors des cours pour le travail des étudiants.
-</p>
 
-<img src="/assets/fichiers/permanencesCT_S2_2026.png" alt="Permanences 2025-2026" class="w-50">
+<!-- <img src="/assets/fichiers/permanencesCT_S2_2026.png" alt="Permanences 2025-2026" class="w-50"> -->
 
 
-</div>
 
-</div>
+<style>
+.calendar-wrapper {
+  margin: 1.5rem 0;
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.calendar-note {
+  font-size: 0.95rem;
+  color: #555;
+}
+</style>
+

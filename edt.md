@@ -3,8 +3,7 @@ layout: talpage
 title: "Emplois de temps"
 ---
 
-
-# Emplois de temps : Master Traitement Automatique des Langues
+# Emplois de temps
 
 Les emplois de temps sont succeptibles d'être modifiés régulièrement. Toute modification de dernière minute sera communiquée par courriel aux étudiants sur les boîtes mail umlp. 
 
@@ -18,8 +17,8 @@ Les emplois de temps de la plateforme ADE de l'université sont susceptibles de 
   <div class="calendar-wrapper">
     <iframe
       src="https://framagenda.org/apps/calendar/embed/pJzT2gPGwpQD9Rdp/dayGridMonth/now"
-      width="80%"
-      height="600"
+      width="100%"
+      height="700"
       style="border: 0;"
       loading="lazy"
       referrerpolicy="strict-origin-when-cross-origin">
@@ -39,8 +38,8 @@ Les emplois de temps de la plateforme ADE de l'université sont susceptibles de 
   <div class="calendar-wrapper">
     <iframe
       src="https://framagenda.org/apps/calendar/embed/cd623xH3PDo5qzzj/dayGridMonth/now"
-      width="80%"
-      height="600"
+      width="100%"
+      height="700"
       style="border: 0;"
       loading="lazy"
       referrerpolicy="strict-origin-when-cross-origin">
@@ -60,8 +59,8 @@ Les emplois de temps de la plateforme ADE de l'université sont susceptibles de 
   <div class="calendar-wrapper">
     <iframe
       src="https://framagenda.org/apps/calendar/embed/dAPPYWcgYPm9W58K/dayGridMonth/now"
-      width="80%"
-      height="600"
+      width="100%"
+      height="700"
       style="border: 0;"
       loading="lazy"
       referrerpolicy="strict-origin-when-cross-origin">
@@ -76,10 +75,9 @@ Les emplois de temps de la plateforme ADE de l'université sont susceptibles de 
 
 # Permanences du département TAL
 
-La salle Master TAL et les locaux du département TAL (entrée E, au-dessus du Grand Salon) sont disponibles pour les étudiants pendant toute la semaine. La salle Master TAL est accessible en dehors des cours pour le travail des étudiants.
+La salle Master TAL et les locaux du département TAL (entrée E, au-dessus du Grand Salon) sont disponibles pour les étudiants pendant toute la semaine. La salle Master TAL est accessible en dehors des cours pour le travail des étudiants entre 9h et 17h tous les jours.
 
 <!-- <img src="/assets/fichiers/permanencesCT_S2_2026.png" alt="Permanences 2025-2026" class="w-50"> -->
-
 
 
 <style>

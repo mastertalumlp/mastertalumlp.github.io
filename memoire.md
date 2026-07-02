@@ -66,13 +66,15 @@ Pour les mémoires de M2 (parcours recherche uniquement) : le mémoire doit êtr
 
 ## Quelques sujets de mémoire récemment traités par nos étudiants
 
-<ul class="list-group w-100">
-    <li class="list-group-item">"Génération d'exercices d'apprentissage de langue de spécialité par l'exploration du corpus"</li>
-    <li class="list-group-item">"Création et reconnaissance de néologismes par méthode de suffixation"</li>
-        <li class="list-group-item">"Catégorisation des phrases pour la cartographie des maladies tropicales"</li>
-        <li class="list-group-item">"Les ambiguïtés orales en français et leur traitement automatique pour les systèmes de reconnaissance automatique de la parole"</li>
-        <li class="list-group-item">"Identification de la violence 
-physique dans les romans de young adult fantasy dans l’optique de 
-produire automatiquement des avertissements de contenu adaptés aux 
-œuvres littéraires"</li>
-</ul>
+- Enjeux pour la normativisation de l’arabe à partir des dialectes dans le domaine du TAL (2026, Lopez Moreno P. J.)
+- Détection automatique de métaphores dans des discours politiques français à l’aide d’un LLM (2026, Keer S.)
+- Génération automatique de corrections et de feedbacks explicatifs pour les erreurs de temps verbaux en français (2026 Sandmeyer S.)
+- Évaluation des capacités des LLMs à répondre aux sujets d’examens dans différentes disciplines (2026, Diallo S.)
+- Utilisation de Grands Modèles de Langages pour l'OCRisation de documents historiques français (2026, Dormieu T.)
+- Détection Automatique des Erreurs d’Accord dans les Textes en Langue Française (2026, Pan T.)
+- Conception d’un tableau linguistique pour l’anthroponymie ypunu (2026, Ma-Bike Mundung H.)
+- Génération d'exercices d'apprentissage de langue de spécialité par l'exploration du corpus
+- Création et reconnaissance de néologismes par méthode de suffixation
+- Catégorisation des phrases pour la cartographie des maladies tropicales
+- Les ambiguïtés orales en français et leur traitement automatique pour les systèmes de reconnaissance automatique de la parole
+- Identification de la violence physique dans les romans de young adult fantasy dans l’optique de produire automatiquement des avertissements de contenu adaptés aux œuvres littéraires

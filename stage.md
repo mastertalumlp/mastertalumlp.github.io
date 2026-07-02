@@ -53,7 +53,12 @@ La **soutenance de stage** consiste en une brève présentation, d'environ 5-10 
 
 </div>
 
-<h2>Impression des rapports de stage</h2>
+## Impression des rapports de stage
  
-<p>Une fois le PDF de la version finale de votre rapport produit, vous devez l’imprimer et le relier. Le jour de la soutenance du stage, vous devez vous présenter avec la version imprimée.</p>
+Une fois le PDF de la version finale de votre rapport produit, vous devez l’imprimer et le relier. Le jour de la soutenance du stage, vous devez vous présenter avec la version imprimée.
+
+## Exemples de sujets de stage soutenus récemment
  
+- Conception d’un modèle de notation automatique pour les épreuves orales du TEF (2026, Guyenot M.) - CCI Paris
+- Analyse linguistique d’un corpus d’entretiens cliniques pour les troubles du sommeil et simulation de patients par LLMs (2026, Bolotnikova A.) - SANPSY, Bordeaux
+- Analyse de l'évolution de la notion de sémantique (2026, Leroux A.) - CRIT, Besançon

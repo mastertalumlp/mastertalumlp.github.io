@@ -86,14 +86,6 @@ title: "Formations TAL UMLP"
 <div class="mb-5"></div>
 
 
-## Calendrier universitaire 2025-2026
-
-<a href="/assets/fichiers/Calendrier2025-2026.pdf" target="_blank">
-  <img src="/assets/fichiers/cal2025-2026.png" alt="Calendrier universitaire 2025-2026" class="w-50">
-</a>
-
-
-
 ## Calendrier universitaire 2026-2027
 
 <a href="/assets/fichiers/calendrier universitaire 2026-2027.pdf" target="_blank">

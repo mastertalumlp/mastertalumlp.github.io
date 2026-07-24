@@ -254,28 +254,28 @@ Le niveau débutant introduit les fondements de la Data Excellence Science, en p
     <tr>
       <td>DES niveau débutant</td>
       <td>Walid El Abed</td>
-      <td>19/06/2026</td>
-      <td>14h–17h</td>
-      <td>3h</td>
-    </tr>
-    <tr>
-      <td>DES niveau débutant</td>
-      <td>Iana Atanassova</td>
-      <td>19/06/2026</td>
+      <td>18/09/2026</td>
       <td>9h–12h</td>
       <td>3h</td>
     </tr>
     <tr>
       <td>DES niveau débutant</td>
+      <td>Iana Atanassova</td>
+      <td>18/09/2026</td>
+      <td>14h–17h</td>
+      <td>3h</td>
+    </tr>
+    <tr>
+      <td>DES niveau débutant</td>
       <td>Walid El Abed</td>
-      <td>20/06/2026</td>
+      <td>19/09/2026</td>
       <td>9h–12h et 14h–17h</td>
       <td>6h</td>
     </tr>
     <tr>
       <td>Examen DES niveau débutant</td>
       <td>Iana Atanassova</td>
-      <td>27/06/2026</td>
+      <td>26/09/2026</td>
       <td>10h–12h</td>
       <td>2h</td>
     </tr>
@@ -377,7 +377,10 @@ La certification **DEC – Data Excellence Certificate – Advanced** approfondi
 
 ## Emploi du temps
 
-<table class="table table-stripped">
+A venir 
+
+
+<!-- <table class="table table-stripped">
   <thead>
     <tr>
       <th>Séance</th>
@@ -453,6 +456,7 @@ La certification **DEC – Data Excellence Certificate – Advanced** approfondi
     </tr>
   </tbody>
 </table>
+-->
 
 ---
 

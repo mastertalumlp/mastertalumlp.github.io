@@ -30,12 +30,14 @@ title: Formation Courte DES - Data Excellence Science
 
 <p class="text-danger center h3"><strong>Les candidatures sont ouvertes !</strong></p>
 
+<p class="h4">Pour vous inscrire, remplissez le formulaire : <strong><a href="https://globaldataexcellence.com/data-excellence-science/" target="_blank">Inscription DES (français)</a> | <a href="https://globaldataexcellence.com/data-excellence-science-2/" target="_blank">Inscription DES (English)</a></strong></p>
+
 # Calendrier des prochaines formations
 
 <div class="banniere-des">
 
   <div class="banniere-texte">
-    <div class="banniere-surtitre">DES débutant</div>
+    <div class="banniere-surtitre">Data Excellence Science - débutant</div>
     <div class="banniere-titre">18/09/2026 - 26/09/2026</div>
     <div class="banniere-soustitre">
       Les cours ont lieu les vendredis et samedis.
@@ -43,7 +45,7 @@ title: Formation Courte DES - Data Excellence Science
   </div>
 
    <div class="banniere-texte">
-    <div class="banniere-surtitre">DES débutant</div>
+    <div class="banniere-surtitre">Data Excellence Science - débutant</div>
     <div class="banniere-titre">19/03/2027 - 27/03/2027</div>
     <div class="banniere-soustitre">
       Les cours ont lieu les vendredis et samedis.
@@ -51,7 +53,7 @@ title: Formation Courte DES - Data Excellence Science
   </div>
 
    <div class="banniere-texte">
-    <div class="banniere-surtitre">DES avancé</div>
+    <div class="banniere-surtitre">Data Excellence Science - avancé</div>
     <div class="banniere-titre">09/04/2027 - 24/04/2027</div>
     <div class="banniere-soustitre">
       Soutenances prévues le 05/06/2027.

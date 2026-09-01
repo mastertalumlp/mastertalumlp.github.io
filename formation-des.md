@@ -32,6 +32,8 @@ title: Formation Courte DES - Data Excellence Science
 
 <p class="h4">Pour vous inscrire, remplissez le formulaire : <strong><a href="https://globaldataexcellence.com/data-excellence-science/" target="_blank">Inscription DES (français)</a> | <a href="https://globaldataexcellence.com/data-excellence-science-2/" target="_blank">Inscription DES (English)</a></strong></p>
 
+<p class="h4 text-info">Webinaire de présentation : <strong>lundi 14 septembre 12h-12h30</strong></p>
+
 # Calendrier des prochaines formations
 
 <div class="banniere-des">

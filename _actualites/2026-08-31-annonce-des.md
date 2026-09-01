@@ -5,7 +5,7 @@ header: "Data Excellence Science"
 ---
 
 
-<img src="actualites/des.png" class="img w-75" alt="DES">
+<img src="actualites/des.png" class="img w-100" alt="DES">
 
 **Inscriptions ouvertes - Formation Data Excellence Science (DES)**
 

@@ -108,7 +108,7 @@ Vous aurez également la possibilité de rejoindre les projets de recherche de n
 
 
 <p>
-Les <strong>séminaires hebdomadaires</strong> en semestres 8 et 10 complétent la formation et offrent un espace d’échanges avec des chercheurs en TAL (en France ou à l'international),
+Les <strong>séminaires hebdomadaires</strong> en semestres 8 et 10 complètent la formation et offrent un espace d’échanges avec des chercheurs en TAL (en France ou à l'international),
 des doctorants et des professionnels du secteur. Ces rencontres vous permettront de connaître la recherche et les projets en TAL, de suivre les évolutions rapides du domaine, ainsi que de renforcer votre réseau par des rencontres avec des professionnels.
 </p>
 
@@ -201,7 +201,7 @@ Pour tout renseignement complémentaire, contactez la responsable de la formatio
 </p>
 
 <p>Pour plus de détails sur l'inscription et la liste des documents
- à fournir, vous pouvez contacter également le service de scolarité de <a href="http://www.univ-fcomte.fr/pages/fr/menu1/formations/inscription/inscription---scolarites-17.html#UFR_SLHS" target="_blank">l'UFR Sciences du Langage, de l’Homme et de la Société (SLHS)</a> de l'Univesité Marie et Louis Pasteur.</p>
+ à fournir, vous pouvez contacter également le service de scolarité de <a href="http://www.univ-fcomte.fr/pages/fr/menu1/formations/inscription/inscription---scolarites-17.html#UFR_SLHS" target="_blank">l'UFR Sciences du Langage, de l’Homme et de la Société (SLHS)</a> de l'Université Marie et Louis Pasteur.</p>
 
 
 
@@ -396,7 +396,7 @@ Les étudiants bénéficient d’un accompagnement étroit et individuel tout au
 <a href="#entreprises" class="list-group-item">Les entreprises parlent de nos étudiants en stage</a>
 <a href="#faq" class="list-group-item">FAQ</a>
 <a href="#contact" class="list-group-item">Contactez-nous</a>
-<a href="/edt.html" class="list-group-item">Emplois de temps</a>
+<a href="/edt.html" class="list-group-item">Emplois du temps</a>
 
 </div>
 

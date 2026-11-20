@@ -7,7 +7,7 @@ title: "Stage et TAL"
 
 Le stage, d'une durée entre 2 et 6 mois, est obligatoire pour les étudiants en Master 2 qui choisissent le parcours professionnel.
 
-En outre, tous les étudiants peuvent effectuer un stage (supplémentaire) entre avril et septembre de la première ou la deuxième année du master. Pour cela il ont la possibilité de s'inscrire en l'UE libre "Stage".
+En outre, tous les étudiants peuvent effectuer un stage (supplémentaire) entre avril et septembre de la première ou la deuxième année du master. Pour cela, ils ont la possibilité de s'inscrire à l'UE libre "Stage".
 
 ## Mode d'évaluation
 
@@ -22,7 +22,7 @@ N'oubliez pas que vous devez faire relire et valider le rapport final par votre 
 
 Le modèle disponible ci-dessous est donné à titre indicatif. Il pourra être adapté selon les besoins.
 
-La **soutenance de stage** consiste en une brève présentation, d'environ 5-10 minutes, devant l'équipe pédagogique et les étudiants du Master. Elle est suivi de questions et dialogue avec l'équipe pédagogique. 
+La **soutenance de stage** consiste en une brève présentation, d'environ 5-10 minutes, devant l'équipe pédagogique et les étudiants du Master. Elle est suivie de questions et dialogue avec l'équipe pédagogique. 
 
 ## Ressources autour de la rédaction du rapport de stage
 
@@ -58,7 +58,18 @@ La **soutenance de stage** consiste en une brève présentation, d'environ 5-10 
 Une fois le PDF de la version finale de votre rapport produit, vous devez l’imprimer et le relier. Le jour de la soutenance du stage, vous devez vous présenter avec la version imprimée.
 
 ## Exemples de sujets de stage soutenus récemment
- 
+
+### 2026
+
 - Conception d’un modèle de notation automatique pour les épreuves orales du TEF (2026, Guyenot M.) - CCI Paris
 - Analyse linguistique d’un corpus d’entretiens cliniques pour les troubles du sommeil et simulation de patients par LLMs (2026, Bolotnikova A.) - SANPSY, Bordeaux
 - Analyse de l'évolution de la notion de sémantique (2026, Leroux A.) - CRIT, Besançon
+
+### 2025
+
+- Application du TAL à la correction post-OCR des articles scientifiques en anglais (2025, Li W.)
+- Entraînement et fine-tuning de grands modèles de langage pour la détection et la catégorisation de l'incertitude dans les textes scientifiques (2025, Montay F.)
+- Préparation et annotation de corpus scientifiques (2025, Niang A.)
+- Optimisation de la gestion des connaissances par la structuration sémantique et l'annotation de métadonnées (2025, Onyekpere C.) - African Leadership University, Rwanda
+- Conception d'un vocabulaire optimisé pour la communication par pictogrammes sur synthèse vocale pour les personnes ne pouvant pas parler (2025, Devanne A.)
+- Extraction automatique d'entités nommées dans les descriptions INN des anticorps monoclonaux (2025, Mbaye M.)

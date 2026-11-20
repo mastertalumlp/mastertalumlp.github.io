@@ -5,7 +5,7 @@ header: "Rentrée 2025"
 ---
 
 
-<img src="actualites/reunion-rentree.jpg" class="img w-50" alt="reunion">
+<img src="/actualites/reunion-rentree.jpg" class="img w-50" alt="reunion">
 
 Chères étudiantes, chers étudiants,
 

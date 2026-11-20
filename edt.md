@@ -1,15 +1,15 @@
 ---
 layout: talpage
-title: "Emplois de temps"
+title: "Emplois du temps"
 ---
 
-# Emplois de temps
+# Emplois du temps
 
 
 
-Les emplois de temps sont disponibles sur la plateforme ADE de l'université, accessible via <a href="https://ent.univ-fcomte.fr" target="_blank">l'ENT</a>.
+Les emplois du temps sont disponibles sur la plateforme ADE de l'université, accessible via <a href="https://ent.univ-fcomte.fr" target="_blank">l'ENT</a>.
 
-Les emplois de temps sont succeptibles d'être modifiés régulièrement. Toute modification de dernière minute sera communiquée par courriel aux étudiants sur les boîtes mail umlp. En cas de question ou de doute, nous vous invitons à contacter directement les enseignants pour obtenir des informations précises.
+Les emplois du temps sont susceptibles d'être modifiés régulièrement. Toute modification de dernière minute sera communiquée par courriel aux étudiants sur les boîtes mail umlp. En cas de question ou de doute, nous vous invitons à contacter directement les enseignants pour obtenir des informations précises.
 
 
 # Permanences du département TAL

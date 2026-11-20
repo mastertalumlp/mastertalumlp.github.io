@@ -1,48 +1,60 @@
-# Page web du master LLCER parcours TAL de l'Université Marie et Louis Pasteur, Besançon, France
+# Site web du Département TAL - Université Marie et Louis Pasteur
 
-2025-2026
+Site des formations en Traitement Automatique des Langues (TAL) de l'Université Marie et Louis Pasteur (UMLP), Besançon : Master LLCER parcours TAL, Licence parcours TAL, UE libres, formation courte Data Excellence Science (DES).
 
-###  Ajouter des actualités
+En ligne : https://mastertalumlp.github.io (Jekyll, hébergé sur GitHub Pages ; publication automatique à chaque `git push`).
 
-1. Créer un fichier AAAA-MM-JJ-blabla.md dans le repertoire _actualites (le nom du fichier commence par la date).
-2. Ajouter l'entête, modifier la date de publication :
+## Organisation des fichiers
+
+| Fichier / dossier | Contenu |
+|---|---|
+| `index.md` | Accueil (3 dernières actualités, liens Master / Licence, bannière DES, calendrier universitaire) |
+| `master.md`, `competences.md`, `memoire.md`, `stage.md`, `regles-ia.md`, `edt.md` | Pages du Master |
+| `licence.md`, `uels.md` | Pages de la Licence et des UE libres |
+| `formation-des.md` | Formation courte Data Excellence Science |
+| `equipe.md`, `ressources.md`, `actualites.md` | Équipe, documents, liste des actualités |
+| `_actualites/` | Actualités (un fichier par actualité) et leurs images |
+| `_layouts/talpage.html` | Gabarit commun : bannière, **menu de navigation**, pied de page |
+| `assets/fichiers/` | Documents téléchargeables (PDF, DOCX…) |
+| `assets/images/` | Images et photos |
+| `py/` | Script historique de génération des emplois du temps (non publié) |
+
+## Ajouter une actualité
+
+1. Créer `_actualites/AAAA-MM-JJ-sujet.md` (le nom commence par la date).
+2. En-tête :
 
 ```
 ---
-title: "Titre ici"
-date: 2025-08-28
+title: "Titre de l'actualité"
+date: 2026-11-21
 header: "Rubrique / titre court"
 ---
 ```
 
-3. Ajouter le texte dessous, en format md (pour référence https://www.markdownguide.org/cheat-sheet/)
-
-Pour ajouter une image, utiliser par exemple :
+3. Écrire le texte en Markdown (https://www.markdownguide.org/cheat-sheet/).
+4. Image : placer le fichier dans `_actualites/` et l'insérer avec un chemin **absolu** :
 
 ```
-<img src="actualites/reunion-rentree.jpg" class="img w-50" alt="reunion">
+<img src="/actualites/mon-image.jpg" class="img w-50" alt="description">
 ```
 
-où le fichier image est placé dans le même repertoire _actualites.
+Les trois actualités les plus récentes s'affichent sur l'accueil.
 
+## Mettre à jour les listes de mémoires et de stages
 
+Les sujets récents figurent dans `memoire.md` et `stage.md`, au format :
+`- Titre (année de soutenance, Nom I.) - organisme d'accueil (stages)`.
+La base Grist du Master (table « Mémoires et stages ») sert de référence.
 
-### Modificaitons de l'EDT
+## Emplois du temps
 
-1. Prévenir les étudiants et éventuellement d'autres personnes concernées par mail.
-2. Modifier le Google Sheet avec l'EDT : https://docs.google.com/spreadsheets/d/16H9HBquvyNAw6L8xw9PFsrOYwJ8_LUaPUO7i0R6b0ns/edit?usp=sharing 
-3. Lancer le code python qui se trouve dans le repertoire python.
+Les emplois du temps sont publiés sur ADE (ENT de l'université) ; la page `edt.md` y renvoie.
+Le script `py/edt2jekyll_v2_2025.py` (génération de pages EDT à partir d'un Google Sheet) n'est plus utilisé pour le site.
 
-python3 edt2jekyll.py
+## Prévisualiser et publier
 
-Ce code essaye de :
-- lire le google sheet 
-- produire les nouvelles pages web EDT
-- sychroniser le dépôt git. Vérifier que cette dernière étape a bien marché.
-
-4. La mise à jour du site en ligne du côté de github prend environ 10-20 secondes.
-
-5. Les éventuels conflits de créneaux s'affichent en rouge à droite sur les pages web EDT. Vérifiez.
-
-
-
+```bash
+bundle exec jekyll serve     # http://localhost:4000
+git add -A && git commit -m "..." && git push
+```

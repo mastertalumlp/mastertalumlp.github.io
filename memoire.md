@@ -7,7 +7,7 @@ title: "Mémoire de recherche et TAL"
 
 ## Ressources autour de la rédaction du mémoire
 
-Les feuilles de style ci-dessous sont fournies à titre indicatif. Les étudiants sont libres à les adapter à leurs besoins ou à en utiliser d'autres.
+Les feuilles de style ci-dessous sont fournies à titre indicatif. Les étudiants sont libres de les adapter à leurs besoins ou à en utiliser d'autres.
 
 <div class="card-deck">
 
@@ -66,13 +66,32 @@ Pour les mémoires de M2 (parcours recherche uniquement) : le mémoire doit êtr
 
 ## Quelques sujets de mémoire récemment traités par nos étudiants
 
+### 2026
+
 - Enjeux pour la normativisation de l’arabe à partir des dialectes dans le domaine du TAL (2026, Lopez Moreno P. J.)
-- Détection automatique de métaphores dans des discours politiques français à l’aide d’un LLM (2026, Keer S.)
-- Génération automatique de corrections et de feedbacks explicatifs pour les erreurs de temps verbaux en français (2026 Sandmeyer S.)
+- Détection automatique de métaphores dans des discours politiques français à l’aide d’un LLM (2026, Shi K.)
+- Génération automatique de corrections et de feedbacks explicatifs pour les erreurs de temps verbaux en français (2026, Sandmeyer S.)
 - Évaluation des capacités des LLMs à répondre aux sujets d’examens dans différentes disciplines (2026, Diallo S.)
-- Utilisation de Grands Modèles de Langages pour l'OCRisation de documents historiques français (2026, Dormieu T.)
-- Détection Automatique des Erreurs d’Accord dans les Textes en Langue Française (2026, Pan T.)
+- Utilisation de grands modèles de langage pour l'OCRisation de documents historiques français (2026, Dormieu T.)
+- Détection automatique des erreurs d’accord dans les textes en langue française (2026, Pan T.)
 - Conception d’un tableau linguistique pour l’anthroponymie ypunu (2026, Ma-Bike Mundung H.)
+
+### 2025
+
+- Détection et catégorisation automatique de l'ironie et du sarcasme textuel : proposition d'un cadre d'annotation (2025, Bolotnikova A.)
+- Étude comparative et qualitative de traductions humaines et automatiques appliquée au domaine du sous-titrage audiovisuel (2025, Guyenot M.)
+- Identification automatique d'erreurs OCR à des fins de correction semi-automatique (2025, Dormieu T.)
+- Analyse automatique des avis clients d'Air Algérie sur TripAdvisor pour identifier les problèmes récurrents (2025, Khaldi N.)
+
+### 2024
+
+- Analyses comparatives et qualitatives de traductions humaines et de traductions automatiques de textes littéraires (2024, Longuépée C.)
+- La détection et l’analyse des néologismes en russe (2024, Parkhomenko V.)
+- Détection automatique de dialectes avec un système hybride segmental basé sur des traits de phonétique acoustique (Sinfonia) (2024, Rodrigues de Almeida L.)
+- Déterminer le niveau d’un joueur de Counter-Strike : Global Offensive par sa maîtrise langagière (2024, Tadei J.)
+
+### Années antérieures
+
 - Génération d'exercices d'apprentissage de langue de spécialité par l'exploration du corpus
 - Création et reconnaissance de néologismes par méthode de suffixation
 - Catégorisation des phrases pour la cartographie des maladies tropicales

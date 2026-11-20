@@ -38,14 +38,6 @@ title: Formation Courte DES - Data Excellence Science
 
 <div class="banniere-des">
 
-  <div class="banniere-texte">
-    <div class="banniere-surtitre">Data Excellence Science - débutant</div>
-    <div class="banniere-titre">18/09/2026 - 26/09/2026</div>
-    <div class="banniere-soustitre">
-      Les cours ont lieu les vendredis et samedis.
-    </div>
-  </div>
-
    <div class="banniere-texte">
     <div class="banniere-surtitre">Data Excellence Science - débutant</div>
     <div class="banniere-titre">19/03/2027 - 27/03/2027</div>
@@ -68,8 +60,6 @@ title: Formation Courte DES - Data Excellence Science
 # Formation Courte Data Excellence Science
 
 La **formation courte Data Excellence Science (DES)** propose une initiation puis un approfondissement de la gouvernance des données par la valeur. Elle articule informatique, gestion, droit et linguistique afin de développer une approche durable, éthique et souveraine des données.
-
-La certification DEC initie à la gouvernance des données par la valeur, avec une approche durable, éthique et souveraine, à l’interface entre informatique, gestion, droit et linguistique. Elle pose les bases pour comprendre le rôle stratégique des données, leur maturité et les enjeux de l’IA responsable dans les organisations.
 
 Les travaux pratiques s’appuient sur le **Data Excellence Framework (DEF)** et sur le système **AI DEMS**, dans une pédagogie combinant théorie interdisciplinaire, études de cas, ateliers pratiques et travaux de terrain.
 
@@ -354,7 +344,7 @@ La certification **DEC – Data Excellence Certificate – Advanced** approfondi
     37h au total en présentiel
 </p>
     <p class="card-text">
-    5 jours × 6h en juillet + 4h d’examen en juillet + 3h de soutenance en septembre
+    5 jours × 6h + 4h d’examen + 3h de soutenance (voir le calendrier en haut de la page)
 </p>
   </div>
 </div>

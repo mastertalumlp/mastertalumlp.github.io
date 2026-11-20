@@ -62,8 +62,8 @@ Une fois le PDF de la version finale de votre rapport produit, vous devez l’im
 ### 2026
 
 - Conception d’un modèle de notation automatique pour les épreuves orales du TEF (2026, Guyenot M.) - CCI Paris
-- Analyse linguistique d’un corpus d’entretiens cliniques pour les troubles du sommeil et simulation de patients par LLMs (2026, Bolotnikova A.) - SANPSY, Bordeaux
-- Analyse de l'évolution de la notion de sémantique (2026, Leroux A.) - CRIT, Besançon
+- Analyse linguistique d'un corpus d'entretiens cliniques pour les troubles du sommeil (2026, Bolotnikova A.) - SANPSY, Bordeaux
+- Analyse de l'évolution de la sémantique (2026, Leroux A.) - CRIT, Besançon
 
 ### 2025
 

@@ -74,7 +74,7 @@ Il ne faut pas :
 
 ## Cadre institutionnel
 
-<p>Les règles ci-dessous s'inscrivent dans le cadre du règlement général des études et des examens (RGEE) de l'UMLP pour l'année universitaire 2025–2026, notamment en ce qui concerne le plagiat :</p>
+<p>Les règles ci-dessous s'inscrivent dans le cadre du règlement général des études et des examens (RGEE) de l'UMLP pour l'année universitaire 2026–2027, notamment en ce qui concerne le plagiat :</p>
 
 <blockquote class="blockquote">
 <p><i>Article 2.4.3.1 Interdiction du plagiat (principe)<br>

@@ -163,7 +163,7 @@ Un niveau linguistique est requis : <strong>C1 en français</strong> (langue pri
           <li>Choisir : <em>Master LLCER – Parcours Traitement Automatique des Langues (TAL)</em>.</li>
           <li>Déposer : CV, lettre de motivation, relevés de notes et diplômes.</li>
           <li>Après une vérification administrative, les dossiers sont transmis à la <strong>commission d’admission</strong> (réunie en juin).</li>
-          <li><strong>Période de candidature : mars – avril </strong> (dates exactes actualisées chaque année sur Mon Master).</li>
+          <li><strong>Période de candidature : entre février et avril</strong> (dates exactes actualisées chaque année sur Mon Master).</li>
         </ul>
 
 
@@ -330,7 +330,7 @@ gagner leur confiance."
 <h4>Comment candidater au Master « Traitement Automatique des Langues (TAL) » ?</h4>
 
 <p>
-Pour les étudiants français titulaires d'une Licence obtenue en France, la candidature s’effectue via la plateforme nationale <strong>Mon Master</strong> (<a href="https://candidature.monmaster.gouv.fr/" target="_blank">candidature.monmaster.gouv.fr</a>), qui ouvre généralement en <strong>avril</strong>.
+Pour les étudiants français titulaires d'une Licence obtenue en France, la candidature s’effectue via la plateforme nationale <strong>Mon Master</strong> (<a href="https://candidature.monmaster.gouv.fr/" target="_blank">candidature.monmaster.gouv.fr</a>), qui ouvre généralement <strong>entre février et avril</strong> (dates exactes actualisées chaque année sur Mon Master).
 </p>
 <p>
 Votre dossier devra contenir un <strong>curriculum vitae</strong>, une <strong>lettre de motivation</strong>, les <strong>relevés de notes</strong> de votre Licence ainsi que votre <strong>diplôme</strong>.
@@ -377,7 +377,7 @@ Les étudiants bénéficient d’un accompagnement étroit et individuel tout au
 
 <p>Pour tout renseignement complémentaire sur les inscriptions contactez la responsable de la formation : Pr Iana Atanassova, <a href="mailto:iana.atanassova@umlp.fr">iana.atanassova@umlp.fr</a>.</p>
 
-<p>Site web du CRIT : <a href="http://crit.umlp.fr/" target="_blank">http://crit.umlp.fr</a></p>
+<p>Site web du CRIT : <a href="https://crit.umlp.fr/" target="_blank">https://crit.umlp.fr</a></p>
 
 
 

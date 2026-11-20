@@ -68,13 +68,13 @@ Pour les mémoires de M2 (parcours recherche uniquement) : le mémoire doit êtr
 
 ### 2026
 
-- Enjeux pour la normativisation de l’arabe à partir des dialectes dans le domaine du TAL (2026, Lopez Moreno P. J.)
-- Détection automatique de métaphores dans des discours politiques français à l’aide d’un LLM (2026, Shi K.)
+- Normativisation de l'arabe à partir des dialectes dans le domaine du TAL (2026, Lopez Moreno P. J.)
+- Détection automatique de métaphores dans des discours politiques français à l'aide d'un LLM (2026, Shi K.)
 - Génération automatique de corrections et de feedbacks explicatifs pour les erreurs de temps verbaux en français (2026, Sandmeyer S.)
 - Évaluation des capacités des LLMs à répondre aux sujets d’examens dans différentes disciplines (2026, Diallo S.)
-- Utilisation de grands modèles de langage pour l'OCRisation de documents historiques français (2026, Dormieu T.)
+- Utilisation de grands modèles de langage pour la reconnaissance optique de caractères de documents historiques français (2026, Dormieu T.)
 - Détection automatique des erreurs d’accord dans les textes en langue française (2026, Pan T.)
-- Conception d’un tableau linguistique pour l’anthroponymie ypunu (2026, Ma-Bike Mundung H.)
+- Conception d'un tableau linguistique pour l'anthroponymie ypunu (2026, Ma-Bike Mundung H.)
 
 ### 2025
 
